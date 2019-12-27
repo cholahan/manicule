@@ -8,156 +8,2984 @@
   },
   {
     "index": 2,
-    "signatures": "1r",
-    "pagenum": "1",
-    "category": "Reeve’s Tale",
-    "description": "Lines 4246-4283"
+    "signatures": "",
+    "pagenum": "Board",
+    "category": "",
+    "description": ""
   },
   {
     "index": 3,
-    "signatures": "1v",
-    "pagenum": "2",
-    "category": "Reeve’s Tale",
-    "description": "Lines 4284-4321."
+    "signatures": "",
+    "pagenum": "Board-back",
+    "category": "",
+    "description": ""
   },
   {
     "index": 4,
-    "signatures": "2r",
-    "pagenum": "3",
-    "category": "Cook’s Tale",
-    "description": "Lines 4322-4356"
+    "signatures": "1r",
+    "pagenum": "",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 5,
-    "signatures": "2v",
-    "pagenum": "4",
-    "category": "Cook’s Tale",
-    "description": "Lines 4357-4372"
+    "signatures": "1v",
+    "pagenum": "",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 6,
-    "signatures": "3r",
-    "pagenum": "5",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 95-98 above the illumination, lines 99-105 would have been below"
+    "signatures": "2r",
+    "pagenum": "iii",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 7,
-    "signatures": "3v",
-    "pagenum": "6",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 106-140"
+    "signatures": "2v",
+    "pagenum": "iv",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 8,
-    "signatures": "4r",
-    "pagenum": "7",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 211-245"
+    "signatures": "3r",
+    "pagenum": "v",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 9,
-    "signatures": "4v",
-    "pagenum": "8",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 245-280"
+    "signatures": "3v",
+    "pagenum": "vi",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 10,
-    "signatures": "5r",
-    "pagenum": "9",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 316-350"
+    "signatures": "4r",
+    "pagenum": "vii",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 11,
-    "signatures": "5v",
-    "pagenum": "10",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 1051-1085"
+    "signatures": "4v",
+    "pagenum": "viii",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 12,
-    "signatures": "6r",
-    "pagenum": "11",
-    "category": "Man of Law’s Tale",
-    "description": "Lines 1086-1120"
+    "signatures": "5r",
+    "pagenum": "ix",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 13,
-    "signatures": "6v",
-    "pagenum": "12",
-    "category": "Squire’s Tale",
-    "description": "Lines 57-94"
+    "signatures": "5v",
+    "pagenum": "x",
+    "category": "Paratext",
+    "description": ""
   },
   {
     "index": 14,
-    "signatures": "7r",
-    "pagenum": "13",
-    "category": "Squire’s Tale",
-    "description": "Lines 95-132"
+    "signatures": "6r",
+    "pagenum": 1,
+    "category": "Pamela",
+    "description": "A: Address to the Rich"
   },
   {
     "index": 15,
-    "signatures": "7v",
-    "pagenum": "14",
-    "category": "Canon’s Yeoman’s Tale",
-    "description": "Lines 1091-1128"
+    "signatures": "6v",
+    "pagenum": 2,
+    "category": "Pamela",
+    "description": "A: Advantages of Men over Women, owing to Women Themselves; Adversity"
   },
   {
     "index": 16,
-    "signatures": "8r",
-    "pagenum": "15",
-    "category": "Canon’s Yeoman’s Tale",
-    "description": "Lines 1129-1167"
+    "signatures": "7r",
+    "pagenum": 3,
+    "category": "Pamela",
+    "description": "A: Adversity; Advice to young married Women; Advice to Young Women"
   },
   {
     "index": 17,
-    "signatures": "8v",
-    "pagenum": "16",
-    "category": "Canon’s Yeoman’s Tale",
-    "description": ""
+    "signatures": "7v",
+    "pagenum": 4,
+    "category": "Pamela",
+    "description": "A: Advice to Young Women"
   },
   {
     "index": 18,
-    "signatures": "9r",
-    "pagenum": "17",
-    "category": "Tale of Sir Thopas",
-    "description": "Lines 846-883"
+    "signatures": "8r",
+    "pagenum": 5,
+    "category": "Pamela",
+    "description": "A: Advice to Young Women"
   },
   {
     "index": 19,
-    "signatures": "9v",
-    "pagenum": "18",
-    "category": "Tale of Sir Thopas",
-    "description": "Lines 884-922"
+    "signatures": "8v",
+    "pagenum": 6,
+    "category": "Pamela",
+    "description": "A/B: Advice to Young Women; Anger; B: Bashfulness, Sheepishness"
   },
   {
     "index": 20,
-    "signatures": "10r",
-    "pagenum": "19",
-    "category": "Parson’s Tale",
-    "description": ""
+    "signatures": "9r",
+    "pagenum": 7,
+    "category": "Pamela",
+    "description": "B: Bashfulness, Sheepishness; Beauty; Beneficence"
   },
   {
     "index": 21,
-    "signatures": "10v",
-    "pagenum": "20",
-    "category": "Parson’s Tale",
-    "description": ""
+    "signatures": "9v",
+    "pagenum": 8,
+    "category": "Pamela",
+    "description": "C: Calumny, Censure, Censoriousness; Cautions to young Female Servants"
   },
   {
     "index": 22,
-    "signatures": "11r",
-    "pagenum": "21",
-    "category": "Parson’s Tale",
-    "description": ""
+    "signatures": "10r",
+    "pagenum": 9,
+    "category": "Pamela",
+    "description": "C: Cautions to young Female Servants; Charity, Alms-giving"
   },
   {
     "index": 23,
+    "signatures": "10v",
+    "pagenum": 10,
+    "category": "Pamela",
+    "description": "C: Charity, Alms-giving; Chearfulness; Children in their early Infancy"
+  },
+  {
+    "index": 24,
+    "signatures": "11r",
+    "pagenum": 11,
+    "category": "Pamela",
+    "description": "C: Children in their early Infancy; Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds"
+  },
+  {
+    "index": 25,
     "signatures": "11v",
-    "pagenum": "22",
-    "category": "Parson’s Tale",
-    "description": ""
+    "pagenum": 12,
+    "category": "Pamela",
+    "description": "C: Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds; Children and Servants"
+  },
+  {
+    "index": 26,
+    "signatures": "12r",
+    "pagenum": 13,
+    "category": "Pamela",
+    "description": "C: Clergy"
+  },
+  {
+    "index": 27,
+    "signatures": "12v",
+    "pagenum": 14,
+    "category": "Pamela",
+    "description": "C: Clergy"
+  },
+  {
+    "index": 28,
+    "signatures": "13r",
+    "pagenum": 15,
+    "category": "Pamela",
+    "description": "C: Clergy; Clergyman's Wife"
+  },
+  {
+    "index": 29,
+    "signatures": "13v",
+    "pagenum": 16,
+    "category": "Pamela",
+    "description": "C: Clergyman's Wife; Competency; Conscience, Consciousness"
+  },
+  {
+    "index": 30,
+    "signatures": "",
+    "pagenum": 17,
+    "category": "Pamela",
+    "description": "C: Conjugal Piety; Consolation; Consolation to the Poor"
+  },
+  {
+    "index": 31,
+    "signatures": "",
+    "pagenum": 18,
+    "category": "Pamela",
+    "description": "C: Consolation to the Poor; Courtship"
+  },
+  {
+    "index": 32,
+    "signatures": "",
+    "pagenum": 19,
+    "category": "Pamela",
+    "description": "C: Coursthip; Credulity; Custom"
+  },
+  {
+    "index": 33,
+    "signatures": "",
+    "pagenum": 20,
+    "category": "Pamela",
+    "description": "C/D: Custom; Death; Double Entendre"
+  },
+  {
+    "index": 34,
+    "signatures": "",
+    "pagenum": 21,
+    "category": "Pamela",
+    "description": "D/E: Dress; Duty to Superiors; Education"
+  },
+  {
+    "index": 35,
+    "signatures": "",
+    "pagenum": 22,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 36,
+    "signatures": "",
+    "pagenum": 23,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 37,
+    "signatures": "",
+    "pagenum": 24,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 38,
+    "signatures": "",
+    "pagenum": 25,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 39,
+    "signatures": "",
+    "pagenum": 26,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 40,
+    "signatures": "",
+    "pagenum": 27,
+    "category": "Pamela",
+    "description": "E: Education"
+  },
+  {
+    "index": 41,
+    "signatures": "",
+    "pagenum": 28,
+    "category": "Pamela",
+    "description": "E: Education; Female Education"
+  },
+  {
+    "index": 42,
+    "signatures": "",
+    "pagenum": 29,
+    "category": "Pamela",
+    "description": "E: Female Education; Envy; Example"
+  },
+  {
+    "index": 43,
+    "signatures": "",
+    "pagenum": 30,
+    "category": "Pamela",
+    "description": "E/F: Example; Fashion; Female Dignity"
+  },
+  {
+    "index": 44,
+    "signatures": "",
+    "pagenum": 31,
+    "category": "Pamela",
+    "description": "F: Female Dignity; Filial Piety; Flattery; Forgiveness"
+  },
+  {
+    "index": 45,
+    "signatures": "",
+    "pagenum": 32,
+    "category": "Pamela",
+    "description": "F: Forgiveness; Fortitude; Friendship"
+  },
+  {
+    "index": 46,
+    "signatures": "",
+    "pagenum": 33,
+    "category": "Pamela",
+    "description": "F/G: Friendship; General Instructions"
+  },
+  {
+    "index": 47,
+    "signatures": "",
+    "pagenum": 34,
+    "category": "Pamela",
+    "description": "G: General Instructions; General Observations"
+  },
+  {
+    "index": 48,
+    "signatures": "",
+    "pagenum": 35,
+    "category": "Pamela",
+    "description": "G: General Observations"
+  },
+  {
+    "index": 49,
+    "signatures": "",
+    "pagenum": 36,
+    "category": "Pamela",
+    "description": "G: General Observations; Genius; Good Men; Good Wife"
+  },
+  {
+    "index": 50,
+    "signatures": "",
+    "pagenum": 37,
+    "category": "Pamela",
+    "description": "G/H: Gratitude; Guardian; Happiness"
+  },
+  {
+    "index": 51,
+    "signatures": "",
+    "pagenum": 38,
+    "category": "Pamela",
+    "description": "H: Happiness; Heroic Poverty"
+  },
+  {
+    "index": 52,
+    "signatures": "",
+    "pagenum": 39,
+    "category": "Pamela",
+    "description": "H: Heroic Poverty; High Life, a Picture of it, from Infancy to Maturity"
+  },
+  {
+    "index": 53,
+    "signatures": "",
+    "pagenum": 40,
+    "category": "Pamela",
+    "description": "H: High Life, a Picture of it, from Infancy to Maturity; Histories and Characters of particular Ladies"
+  },
+  {
+    "index": 54,
+    "signatures": "",
+    "pagenum": 41,
+    "category": "Pamela",
+    "description": "H: Histories and Characters of Particular Ladies; Honour; Human Life"
+  },
+  {
+    "index": 55,
+    "signatures": "",
+    "pagenum": 42,
+    "category": "Pamela",
+    "description": "H: Human Nature; Humility; Husband and Wife"
+  },
+  {
+    "index": 56,
+    "signatures": "",
+    "pagenum": 43,
+    "category": "Pamela",
+    "description": "H/I: Husband and Wife; Impartiality, Partiality"
+  },
+  {
+    "index": 57,
+    "signatures": "",
+    "pagenum": 44,
+    "category": "Pamela",
+    "description": "I/K/L: Industry; Keeping; Lawyer; Libertines, Rakes"
+  },
+  {
+    "index": 58,
+    "signatures": "",
+    "pagenum": 45,
+    "category": "Pamela",
+    "description": "L: Libertines, Rakes; Love"
+  },
+  {
+    "index": 59,
+    "signatures": "",
+    "pagenum": 46,
+    "category": "Pamela",
+    "description": "L: Love"
+  },
+  {
+    "index": 60,
+    "signatures": "",
+    "pagenum": 47,
+    "category": "Pamela",
+    "description": "L: Love; Love at first sight"
+  },
+  {
+    "index": 61,
+    "signatures": "",
+    "pagenum": 48,
+    "category": "Pamela",
+    "description": "L/P: Love at first sight; Platonic Love"
+  },
+  {
+    "index": 62,
+    "signatures": "",
+    "pagenum": 49,
+    "category": "Pamela",
+    "description": "L/M: Low Life; Magnanimity"
+  },
+  {
+    "index": 63,
+    "signatures": "",
+    "pagenum": 50,
+    "category": "Pamela",
+    "description": "M: Magnanimity; Marriage"
+  },
+  {
+    "index": 64,
+    "signatures": "",
+    "pagenum": 51,
+    "category": "Pamela",
+    "description": "M: Marriage; Unequal Marriages; Master's Behaviour to his Female Servant"
+  },
+  {
+    "index": 65,
+    "signatures": "",
+    "pagenum": 52,
+    "category": "Pamela",
+    "description": "M: Master's Behaviour to his Female Servant; Maternal Duty"
+  },
+  {
+    "index": 66,
+    "signatures": "",
+    "pagenum": 53,
+    "category": "Pamela",
+    "description": "M: Merit; Mistress of a Family"
+  },
+  {
+    "index": 67,
+    "signatures": "",
+    "pagenum": 54,
+    "category": "Pamela",
+    "description": "M/O: Mistress of a Family; Modesty; Moral Men; Obligation"
+  },
+  {
+    "index": 68,
+    "signatures": "",
+    "pagenum": 55,
+    "category": "Pamela",
+    "description": "O/P: Obligation; Obstinacy; Old Maids; Old Rakes; Parents and Children"
+  },
+  {
+    "index": 69,
+    "signatures": "",
+    "pagenum": 56,
+    "category": "Pamela",
+    "description": "P: Parents and Children; Passion, Passionate; Patrons"
+  },
+  {
+    "index": 70,
+    "signatures": "",
+    "pagenum": 57,
+    "category": "Pamela",
+    "description": "P: Patrons; Penitence"
+  },
+  {
+    "index": 71,
+    "signatures": "",
+    "pagenum": 58,
+    "category": "Pamela",
+    "description": "P: Political Observations; Poor not to be despised by the Rich"
+  },
+  {
+    "index": 72,
+    "signatures": "",
+    "pagenum": 59,
+    "category": "Pamela",
+    "description": "P: Poor not to be despised by the Rich; Praise; Pride, Proud"
+  },
+  {
+    "index": 73,
+    "signatures": "",
+    "pagenum": 60,
+    "category": "Pamela",
+    "description": "P: Pride, Proud"
+  },
+  {
+    "index": 74,
+    "signatures": "",
+    "pagenum": 61,
+    "category": "Pamela",
+    "description": "P: Pride, Proud; Promises, Vows; Prosperity"
+  },
+  {
+    "index": 75,
+    "signatures": "",
+    "pagenum": 62,
+    "category": "Pamela",
+    "description": "P: Prosperity; Public Entertainments, Town Diversions"
+  },
+  {
+    "index": 76,
+    "signatures": "",
+    "pagenum": 63,
+    "category": "Pamela",
+    "description": "P: Public Entertainments, Town Diversions"
+  },
+  {
+    "index": 77,
+    "signatures": "",
+    "pagenum": 64,
+    "category": "Pamela",
+    "description": "P/Q/R: Public Entertainments, Town Diversions; Rectitude of Mind; Reformation"
+  },
+  {
+    "index": 78,
+    "signatures": "",
+    "pagenum": 65,
+    "category": "Pamela",
+    "description": "R: Reformation"
+  },
+  {
+    "index": 79,
+    "signatures": "",
+    "pagenum": 66,
+    "category": "Pamela",
+    "description": "R: Reformation; Relations"
+  },
+  {
+    "index": 80,
+    "signatures": "",
+    "pagenum": 67,
+    "category": "Pamela",
+    "description": "R: Relations; Religion, Religious Considerations"
+  },
+  {
+    "index": 81,
+    "signatures": "",
+    "pagenum": 68,
+    "category": "Pamela",
+    "description": "R: Religious Considerations; Reproofs; Reputation; Resignation"
+  },
+  {
+    "index": 82,
+    "signatures": "",
+    "pagenum": 69,
+    "category": "Pamela",
+    "description": "R: Resignation; The Rich, Riches"
+  },
+  {
+    "index": 83,
+    "signatures": "",
+    "pagenum": 70,
+    "category": "Pamela",
+    "description": "R: The Rich, Riches; Ridicule; Romances, Romantic Time of Life"
+  },
+  {
+    "index": 84,
+    "signatures": "",
+    "pagenum": 71,
+    "category": "Pamela",
+    "description": "R/S: Romances, Romantic Time of Life; Scholar; Self-Interest; Servants"
+  },
+  {
+    "index": 85,
+    "signatures": "",
+    "pagenum": 72,
+    "category": "Pamela",
+    "description": "S: Servants; Shame, Shamelesness"
+  },
+  {
+    "index": 86,
+    "signatures": "",
+    "pagenum": 73,
+    "category": "Pamela",
+    "description": "S: Shame, Shamelesness; Sickness, Visiting the Sick; Spiritual Pride; Steward; Stile in Writing"
+  },
+  {
+    "index": 87,
+    "signatures": "",
+    "pagenum": 74,
+    "category": "Pamela",
+    "description": "S: Stile in Writing; Suicide"
+  },
+  {
+    "index": 88,
+    "signatures": "",
+    "pagenum": 75,
+    "category": "Pamela",
+    "description": "S/T: Swearing and Cursing; Temptations; Travelling"
+  },
+  {
+    "index": 89,
+    "signatures": "",
+    "pagenum": 76,
+    "category": "Pamela",
+    "description": "T: Travelling"
+  },
+  {
+    "index": 90,
+    "signatures": "",
+    "pagenum": 77,
+    "category": "Pamela",
+    "description": "T: Travelling; Tutors; Tythes"
+  },
+  {
+    "index": 91,
+    "signatures": "",
+    "pagenum": 78,
+    "category": "Pamela",
+    "description": "T/V: Tythes; Vapourishness; Vigilance; Virtue, Chastity"
+  },
+  {
+    "index": 92,
+    "signatures": "",
+    "pagenum": 79,
+    "category": "Pamela",
+    "description": "V: Virtue, Chastity"
+  },
+  {
+    "index": 93,
+    "signatures": "",
+    "pagenum": 80,
+    "category": "Pamela",
+    "description": "V/W: Virtue, Chastity; Voluptuousness; Wife"
+  },
+  {
+    "index": 94,
+    "signatures": "",
+    "pagenum": 81,
+    "category": "Pamela",
+    "description": "W: Wife"
+  },
+  {
+    "index": 95,
+    "signatures": "",
+    "pagenum": 82,
+    "category": "Pamela",
+    "description": "W/X/Y: Wit; Writers; Young Widows"
+  },
+  {
+    "index": 96,
+    "signatures": "",
+    "pagenum": 83,
+    "category": "Pamela",
+    "description": "Y: Youth"
+  },
+  {
+    "index": 97,
+    "signatures": "",
+    "pagenum": 84,
+    "category": "Clarissa",
+    "description": "Blank"
+  },
+  {
+    "index": 98,
+    "signatures": "",
+    "pagenum": 85,
+    "category": "Clarissa",
+    "description": "A: Adversity, Affliction, Calamity, Misfortune"
+  },
+  {
+    "index": 99,
+    "signatures": "",
+    "pagenum": 86,
+    "category": "Clarissa",
+    "description": "A: Adversity, Affliction, Calamity, Misfortune"
+  },
+  {
+    "index": 100,
+    "signatures": "",
+    "pagenum": 87,
+    "category": "Clarissa",
+    "description": "A: Adversity, Affliction, Calamity, Misfortune; Advice and Cautions to Women"
+  },
+  {
+    "index": 101,
+    "signatures": "",
+    "pagenum": 88,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 102,
+    "signatures": "",
+    "pagenum": 89,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 103,
+    "signatures": "",
+    "pagenum": 90,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 104,
+    "signatures": "",
+    "pagenum": 91,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 105,
+    "signatures": "",
+    "pagenum": 92,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 106,
+    "signatures": "",
+    "pagenum": 93,
+    "category": "Clarissa",
+    "description": "A: Advice and Cautions to Women; Air and Manner, Address"
+  },
+  {
+    "index": 107,
+    "signatures": "",
+    "pagenum": 94,
+    "category": "Clarissa",
+    "description": "A: Anger, Displeasure"
+  },
+  {
+    "index": 108,
+    "signatures": "",
+    "pagenum": 95,
+    "category": "Clarissa",
+    "description": "A/B: Anger, Displeasure; Apprehensions, Fears; Beauty, Figure"
+  },
+  {
+    "index": 109,
+    "signatures": "",
+    "pagenum": 96,
+    "category": "Clarissa",
+    "description": "B/C: Beauty, Figure; Blushes, Blushing; Censure, Character"
+  },
+  {
+    "index": 110,
+    "signatures": "",
+    "pagenum": 97,
+    "category": "Clarissa",
+    "description": "C: Censure, Character"
+  },
+  {
+    "index": 111,
+    "signatures": "",
+    "pagenum": 98,
+    "category": "Clarissa",
+    "description": "C: Censure, Character; Charity, Beneficence, Benevolence"
+  },
+  {
+    "index": 112,
+    "signatures": "",
+    "pagenum": 99,
+    "category": "Clarissa",
+    "description": "C: Charity, Beneficence, Benevolence; Church, Clergy"
+  },
+  {
+    "index": 113,
+    "signatures": "",
+    "pagenum": 100,
+    "category": "Clarissa",
+    "description": "C: Church, Clergy; Comedies, Tragedies, Music, Dancing"
+  },
+  {
+    "index": 114,
+    "signatures": "",
+    "pagenum": 101,
+    "category": "Clarissa",
+    "description": "C: Comedies, Tragedies, Music, Dancing; Condescension; Conscience, Consciousness"
+  },
+  {
+    "index": 115,
+    "signatures": "",
+    "pagenum": 102,
+    "category": "Clarissa",
+    "description": "C: Conscience, Consciousness; Consolation"
+  },
+  {
+    "index": 116,
+    "signatures": "",
+    "pagenum": 103,
+    "category": "Clarissa",
+    "description": "C: Consolation"
+  },
+  {
+    "index": 117,
+    "signatures": "",
+    "pagenum": 104,
+    "category": "Clarissa",
+    "description": "C: Consolation; Control, Authority"
+  },
+  {
+    "index": 118,
+    "signatures": "",
+    "pagenum": 105,
+    "category": "Clarissa",
+    "description": "C: Control, Authority; Covetousness, Avarice"
+  },
+  {
+    "index": 119,
+    "signatures": "",
+    "pagenum": 106,
+    "category": "Clarissa",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 120,
+    "signatures": "",
+    "pagenum": 107,
+    "category": "Clarissa",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 121,
+    "signatures": "",
+    "pagenum": 108,
+    "category": "Clarissa",
+    "description": "C: Courtship; Credulity; Cruelty, Hard-heartedness"
+  },
+  {
+    "index": 122,
+    "signatures": "",
+    "pagenum": 109,
+    "category": "Clarissa",
+    "description": "C/D: Cruelty, Hard-heartedness; Death, Dying"
+  },
+  {
+    "index": 123,
+    "signatures": "",
+    "pagenum": 110,
+    "category": "Clarissa",
+    "description": "D: Death, Dying"
+  },
+  {
+    "index": 124,
+    "signatures": "",
+    "pagenum": 111,
+    "category": "Clarissa",
+    "description": "D: Death, Dying; Delicacy, Decency, Decorum"
+  },
+  {
+    "index": 125,
+    "signatures": "",
+    "pagenum": 112,
+    "category": "Clarissa",
+    "description": "D: Delicacy, Decency, Decorum; Despondency, Despair; Deviation"
+  },
+  {
+    "index": 126,
+    "signatures": "",
+    "pagenum": 113,
+    "category": "Clarissa",
+    "description": "D: Deviation; Dignity, Quality"
+  },
+  {
+    "index": 127,
+    "signatures": "",
+    "pagenum": 114,
+    "category": "Clarissa",
+    "description": "D: Dignity, Quality; Double Entendre; Dress, Fashions, Elegance"
+  },
+  {
+    "index": 128,
+    "signatures": "",
+    "pagenum": 115,
+    "category": "Clarissa",
+    "description": "D: Dress, Fashions, Elegance"
+  },
+  {
+    "index": 129,
+    "signatures": "",
+    "pagenum": 116,
+    "category": "Clarissa",
+    "description": "D: Dress, Fashions, Elegance; Dueling"
+  },
+  {
+    "index": 130,
+    "signatures": "",
+    "pagenum": 117,
+    "category": "Clarissa",
+    "description": "D: Dueling; Duty, Obedience"
+  },
+  {
+    "index": 131,
+    "signatures": "",
+    "pagenum": 118,
+    "category": "Clarissa",
+    "description": "D: Duty, Obedience"
+  },
+  {
+    "index": 132,
+    "signatures": "",
+    "pagenum": 119,
+    "category": "Clarissa",
+    "description": "D/E: Duty, Obedience; Educaiton"
+  },
+  {
+    "index": 133,
+    "signatures": "",
+    "pagenum": 120,
+    "category": "Clarissa",
+    "description": "E: Education; Example; Expectation"
+  },
+  {
+    "index": 134,
+    "signatures": "",
+    "pagenum": 121,
+    "category": "Clarissa",
+    "description": "E/F: Eyes; Faults, Folly, Failings, Error"
+  },
+  {
+    "index": 135,
+    "signatures": "",
+    "pagenum": 122,
+    "category": "Clarissa",
+    "description": "F: Faults, Folly, Failings, Error; Favour"
+  },
+  {
+    "index": 136,
+    "signatures": "",
+    "pagenum": 123,
+    "category": "Clarissa",
+    "description": "F: Favour; Flattery, Compliments; Fond, Fondness"
+  },
+  {
+    "index": 137,
+    "signatures": "",
+    "pagenum": 124,
+    "category": "Clarissa",
+    "description": "F: Fond, Fondness; Forgiveness, Pardon"
+  },
+  {
+    "index": 138,
+    "signatures": "",
+    "pagenum": 125,
+    "category": "Clarissa",
+    "description": "F: Forgiveness; Friendship"
+  },
+  {
+    "index": 139,
+    "signatures": "",
+    "pagenum": 126,
+    "category": "Clarissa",
+    "description": "F: Friendship"
+  },
+  {
+    "index": 140,
+    "signatures": "",
+    "pagenum": 127,
+    "category": "Clarissa",
+    "description": "F: Friendship"
+  },
+  {
+    "index": 141,
+    "signatures": "",
+    "pagenum": 128,
+    "category": "Clarissa",
+    "description": "F/G: Friendship; Gaming"
+  },
+  {
+    "index": 142,
+    "signatures": "",
+    "pagenum": 129,
+    "category": "Clarissa",
+    "description": "G: Gaming; Generosity, Generous Minds"
+  },
+  {
+    "index": 143,
+    "signatures": "",
+    "pagenum": 130,
+    "category": "Clarissa",
+    "description": "G: Generosity, Generous Minds"
+  },
+  {
+    "index": 144,
+    "signatures": "",
+    "pagenum": 131,
+    "category": "Clarissa",
+    "description": "G: Generosity; Generous Minds; Goodness, Grace; Gratitude, Ingratitude"
+  },
+  {
+    "index": 145,
+    "signatures": "",
+    "pagenum": 132,
+    "category": "Clarissa",
+    "description": "G: Gratitude, Ingratitude; Grief, Sorrow, Grievances"
+  },
+  {
+    "index": 146,
+    "signatures": "",
+    "pagenum": 133,
+    "category": "Clarissa",
+    "description": "G: Grief, Sorrow, Grievances; Guilt, Vice, Wickedness, Evil Habits, Evil Courses"
+  },
+  {
+    "index": 147,
+    "signatures": "",
+    "pagenum": 134,
+    "category": "Clarissa",
+    "description": "G/H: Guilt, Vice, Wickedness, Evil Habits, Evil Courses; Happiness, Content"
+  },
+  {
+    "index": 148,
+    "signatures": "",
+    "pagenum": 135,
+    "category": "Clarissa",
+    "description": "H: Happiness, Content; Health; Heart, Humanity"
+  },
+  {
+    "index": 149,
+    "signatures": "",
+    "pagenum": 136,
+    "category": "Clarissa",
+    "description": "H: Heart, Humanity; Honesty"
+  },
+  {
+    "index": 150,
+    "signatures": "",
+    "pagenum": 137,
+    "category": "Clarissa",
+    "description": "H: Honesty; Human Life"
+  },
+  {
+    "index": 151,
+    "signatures": "",
+    "pagenum": 138,
+    "category": "Clarissa",
+    "description": "H: Human Nature; Humility"
+  },
+  {
+    "index": 152,
+    "signatures": "",
+    "pagenum": 139,
+    "category": "Clarissa",
+    "description": "H: Husband and Wife"
+  },
+  {
+    "index": 153,
+    "signatures": "",
+    "pagenum": 140,
+    "category": "Clarissa",
+    "description": "H: Husband and Wife"
+  },
+  {
+    "index": 154,
+    "signatures": "",
+    "pagenum": 141,
+    "category": "Clarissa",
+    "description": "H/I: Husband and Wife; Hypocrisy; Ill-will, Envy, Hatred, Malice, Spite"
+  },
+  {
+    "index": 155,
+    "signatures": "",
+    "pagenum": 142,
+    "category": "Clarissa",
+    "description": "I: Ill-will, Envy, Hatred, Malice, Spite; Imagination; Inclination"
+  },
+  {
+    "index": 156,
+    "signatures": "",
+    "pagenum": 143,
+    "category": "Clarissa",
+    "description": "I: Indiscretion, Inconsiderateness, Presumption; Infidel, Scoffer; Innocence"
+  },
+  {
+    "index": 157,
+    "signatures": "",
+    "pagenum": 144,
+    "category": "Clarissa",
+    "description": "I/J: Innocence; Insolence; Judgment"
+  },
+  {
+    "index": 158,
+    "signatures": "",
+    "pagenum": 145,
+    "category": "Clarissa",
+    "description": "J: Judgment; Justice, Injustice, Right, Wrong"
+  },
+  {
+    "index": 159,
+    "signatures": "",
+    "pagenum": 146,
+    "category": "Clarissa",
+    "description": "J/K: Justice, Injustice, Right, Wrong; Keepers, Keeping"
+  },
+  {
+    "index": 160,
+    "signatures": "",
+    "pagenum": 147,
+    "category": "Clarissa",
+    "description": "K/L: Keepers, Keeping; Law, Lawyer"
+  },
+  {
+    "index": 161,
+    "signatures": "",
+    "pagenum": 148,
+    "category": "Clarissa",
+    "description": "L: Law, Lawyer; Learning; Libertine, Rake"
+  },
+  {
+    "index": 162,
+    "signatures": "",
+    "pagenum": 149,
+    "category": "Clarissa",
+    "description": "L: Libertine, Rake"
+  },
+  {
+    "index": 163,
+    "signatures": "",
+    "pagenum": 150,
+    "category": "Clarissa",
+    "description": "L: Libertine, Rake; Little Spirits, Meanness, Narrowness"
+  },
+  {
+    "index": 164,
+    "signatures": "",
+    "pagenum": 151,
+    "category": "Clarissa",
+    "description": "L: Little Spirits, Meanness, Narrowness; Love"
+  },
+  {
+    "index": 165,
+    "signatures": "",
+    "pagenum": 152,
+    "category": "Clarissa",
+    "description": "L: Love"
+  },
+  {
+    "index": 166,
+    "signatures": "",
+    "pagenum": 153,
+    "category": "Clarissa",
+    "description": "L: Love"
+  },
+  {
+    "index": 167,
+    "signatures": "",
+    "pagenum": 154,
+    "category": "Clarissa",
+    "description": "L: Love; Love at first sight; Lover"
+  },
+  {
+    "index": 168,
+    "signatures": "",
+    "pagenum": 155,
+    "category": "Clarissa",
+    "description": "L/M: Lover; Magnanimity, Fortitude, Hope, Steadiness"
+  },
+  {
+    "index": 169,
+    "signatures": "",
+    "pagenum": 156,
+    "category": "Clarissa",
+    "description": "M: Magnanimity, Fortitude, Hope, Steadiness; Marriage"
+  },
+  {
+    "index": 170,
+    "signatures": "",
+    "pagenum": 157,
+    "category": "Clarissa",
+    "description": "M: Marriage"
+  },
+  {
+    "index": 171,
+    "signatures": "",
+    "pagenum": 158,
+    "category": "Clarissa",
+    "description": "M: Marriage"
+  },
+  {
+    "index": 172,
+    "signatures": "",
+    "pagenum": 159,
+    "category": "Clarissa",
+    "description": "M: Marriage; Masters, Mistresses, Servants"
+  },
+  {
+    "index": 173,
+    "signatures": "",
+    "pagenum": 160,
+    "category": "Clarissa",
+    "description": "M: Masters, Mistresses, Servants"
+  },
+  {
+    "index": 174,
+    "signatures": "",
+    "pagenum": 161,
+    "category": "Clarissa",
+    "description": "M: Masters, Mistresses, Servants; Meekness; Men and Women"
+  },
+  {
+    "index": 175,
+    "signatures": "",
+    "pagenum": 162,
+    "category": "Clarissa",
+    "description": "M: Men and Women; Merit, Demerit"
+  },
+  {
+    "index": 176,
+    "signatures": "",
+    "pagenum": 163,
+    "category": "Clarissa",
+    "description": "M: Minutiae; Modesty, Audacity"
+  },
+  {
+    "index": 177,
+    "signatures": "",
+    "pagenum": 164,
+    "category": "Clarissa",
+    "description": "M/O: Modesty, Audacity; Obligation, Oblige, Obliging Temper"
+  },
+  {
+    "index": 178,
+    "signatures": "",
+    "pagenum": 165,
+    "category": "Clarissa",
+    "description": "O: Obstinacy, Perverseness, Forwardness, Pertness; General Observations and Reflections"
+  },
+  {
+    "index": 179,
+    "signatures": "",
+    "pagenum": 166,
+    "category": "Clarissa",
+    "description": "O: General Observations and Reflections"
+  },
+  {
+    "index": 180,
+    "signatures": "",
+    "pagenum": 167,
+    "category": "Clarissa",
+    "description": "O: General Observations and Reflections"
+  },
+  {
+    "index": 181,
+    "signatures": "",
+    "pagenum": 168,
+    "category": "Clarissa",
+    "description": "O: General Observations and Reflections; Oeconomy, Frugality, Housewifry"
+  },
+  {
+    "index": 182,
+    "signatures": "",
+    "pagenum": 169,
+    "category": "Clarissa",
+    "description": "O/P: Oeconomy, Frugality, Housewifry; Palliation, Evasion, Excuse; Parents, Children"
+  },
+  {
+    "index": 183,
+    "signatures": "",
+    "pagenum": 170,
+    "category": "Clarissa",
+    "description": "<span style='color:red;'>P:</span> Parents, Children"
+  },
+  {
+    "index": 184,
+    "signatures": "",
+    "pagenum": 171,
+    "category": "Clarissa",
+    "description": "P: Parents, Children"
+  },
+  {
+    "index": 185,
+    "signatures": "",
+    "pagenum": 172,
+    "category": "Clarissa",
+    "description": "MISSING"
+  },
+  {
+    "index": 186,
+    "signatures": "",
+    "pagenum": 173,
+    "category": "Clarissa",
+    "description": "MISSING"
+  },
+  {
+    "index": 187,
+    "signatures": "",
+    "pagenum": 174,
+    "category": "Clarissa",
+    "description": "?"
+  },
+  {
+    "index": 188,
+    "signatures": "",
+    "pagenum": 175,
+    "category": "Clarissa",
+    "description": "P: Passions"
+  },
+  {
+    "index": 189,
+    "signatures": "",
+    "pagenum": 176,
+    "category": "Clarissa",
+    "description": "P: Passions; Patience, Impatience"
+  },
+  {
+    "index": 190,
+    "signatures": "",
+    "pagenum": 177,
+    "category": "Clarissa",
+    "description": "P: Patience, Impatience; Pedants, Colleges; Physic, Physicians"
+  },
+  {
+    "index": 191,
+    "signatures": "",
+    "pagenum": 178,
+    "category": "Clarissa",
+    "description": "P: Physic, Physicians"
+  },
+  {
+    "index": 192,
+    "signatures": "",
+    "pagenum": 179,
+    "category": "Clarissa",
+    "description": "P: Physic, Physicians; Pity, Mercy; Politeness, Travelling"
+  },
+  {
+    "index": 193,
+    "signatures": "",
+    "pagenum": 180,
+    "category": "Clarissa",
+    "description": "P: Politeness, Travelling; Political Precepts; Poverty, Poor"
+  },
+  {
+    "index": 194,
+    "signatures": "",
+    "pagenum": 181,
+    "category": "Clarissa",
+    "description": "P: Poverty, Poor; Power, Independence; Praise, Dispraise, Applause, Blame"
+  },
+  {
+    "index": 195,
+    "signatures": "",
+    "pagenum": 182,
+    "category": "Clarissa",
+    "description": "P: Praise, Dispraise, Applause, Blame; Prejudice, Prepossession, Antipathy"
+  },
+  {
+    "index": 196,
+    "signatures": "",
+    "pagenum": 183,
+    "category": "Clarissa",
+    "description": "P: Prejudice, Prepossession, Antipathy; Pride"
+  },
+  {
+    "index": 197,
+    "signatures": "",
+    "pagenum": 184,
+    "category": "Clarissa",
+    "description": "P: Pride; Procuress, Profligate Women"
+  },
+  {
+    "index": 198,
+    "signatures": "",
+    "pagenum": 185,
+    "category": "Clarissa",
+    "description": "P: Procuress, Profligate Women; Prosperity, Success, Riches"
+  },
+  {
+    "index": 199,
+    "signatures": "",
+    "pagenum": 186,
+    "category": "Clarissa",
+    "description": "P: Prosperity, Success, Riches; Providence"
+  },
+  {
+    "index": 200,
+    "signatures": "",
+    "pagenum": 187,
+    "category": "Clarissa",
+    "description": "P: Prudence, Wisdom, Discretion"
+  },
+  {
+    "index": 201,
+    "signatures": "",
+    "pagenum": 188,
+    "category": "Clarissa",
+    "description": "P/R: Prudence, Wisdom, Discretion; Purity; Rapes"
+  },
+  {
+    "index": 202,
+    "signatures": "",
+    "pagenum": 189,
+    "category": "Clarissa",
+    "description": "R: Rapes; Reflections on Women"
+  },
+  {
+    "index": 203,
+    "signatures": "",
+    "pagenum": 190,
+    "category": "Clarissa",
+    "description": "R: Reflections on Women"
+  },
+  {
+    "index": 204,
+    "signatures": "",
+    "pagenum": 191,
+    "category": "Clarissa",
+    "description": "R: Reflections on Women"
+  },
+  {
+    "index": 205,
+    "signatures": "",
+    "pagenum": 192,
+    "category": "Clarissa",
+    "description": "R: Reflections on Women"
+  },
+  {
+    "index": 206,
+    "signatures": "",
+    "pagenum": 193,
+    "category": "Clarissa",
+    "description": "R: Reflections on Women; Reformation, Conviction, Conversion"
+  },
+  {
+    "index": 207,
+    "signatures": "",
+    "pagenum": 194,
+    "category": "Clarissa",
+    "description": "R: Reformation, Conviction, Conversion; Relations; Religion, Piety, Devotion, Sabbath"
+  },
+  {
+    "index": 208,
+    "signatures": "",
+    "pagenum": 195,
+    "category": "Clarissa",
+    "description": "R: Religion, Piety, Devotion, Sabbath"
+  },
+  {
+    "index": 209,
+    "signatures": "",
+    "pagenum": 196,
+    "category": "Clarissa",
+    "description": "R: Religion, Piety, Devotion, Sabbath; Remorse"
+  },
+  {
+    "index": 210,
+    "signatures": "",
+    "pagenum": 197,
+    "category": "Clarissa",
+    "description": "R: Remorse; Repentance, Contrition"
+  },
+  {
+    "index": 211,
+    "signatures": "",
+    "pagenum": 198,
+    "category": "Clarissa",
+    "description": "R: Repentance, Contrition; Reprehension, Reproof, Correction"
+  },
+  {
+    "index": 212,
+    "signatures": "",
+    "pagenum": 199,
+    "category": "Clarissa",
+    "description": "R: Reputation; Resentment; Respect, Reverence"
+  },
+  {
+    "index": 213,
+    "signatures": "",
+    "pagenum": 200,
+    "category": "Clarissa",
+    "description": "R/S: Respect, Reverence; Revenge; Satire"
+  },
+  {
+    "index": 214,
+    "signatures": "",
+    "pagenum": 201,
+    "category": "Clarissa",
+    "description": "S: Satire; Secrets, Curiosity"
+  },
+  {
+    "index": 215,
+    "signatures": "",
+    "pagenum": 202,
+    "category": "Clarissa",
+    "description": "S: Self, Self-Interest, Selfishness"
+  },
+  {
+    "index": 216,
+    "signatures": "",
+    "pagenum": 203,
+    "category": "Clarissa",
+    "description": "S: Self, Self-Interest, Selfishness; Sensuality; Sickness, Infirmities"
+  },
+  {
+    "index": 217,
+    "signatures": "",
+    "pagenum": 204,
+    "category": "Clarissa",
+    "description": "S/T: Sickness, Infirmities; Suspicion, Doubt, Jealousy; Tears"
+  },
+  {
+    "index": 218,
+    "signatures": "",
+    "pagenum": 205,
+    "category": "Clarissa",
+    "description": "T: Tears; Theory; Thoughtfulness, Sensibility; Tyranny"
+  },
+  {
+    "index": 219,
+    "signatures": "",
+    "pagenum": 206,
+    "category": "Clarissa",
+    "description": "T/V: Tyranny; Vanity, Conceit, Affectation"
+  },
+  {
+    "index": 220,
+    "signatures": "",
+    "pagenum": 207,
+    "category": "Clarissa",
+    "description": "V: Vanity, Conceit, Affectation; Vapours"
+  },
+  {
+    "index": 221,
+    "signatures": "",
+    "pagenum": 208,
+    "category": "Clarissa",
+    "description": "V: Vapours; Veracity, Truth; Violent Spirits"
+  },
+  {
+    "index": 222,
+    "signatures": "",
+    "pagenum": 209,
+    "category": "Clarissa",
+    "description": "V: Violent Spirits; Virtue, Virtuous, Principle"
+  },
+  {
+    "index": 223,
+    "signatures": "",
+    "pagenum": 210,
+    "category": "Clarissa",
+    "description": "V: Virtue, Virtuous, Principle; Vivacity"
+  },
+  {
+    "index": 224,
+    "signatures": "",
+    "pagenum": 211,
+    "category": "Clarissa",
+    "description": "V: Vivacity; Vows, Curses, Oaths, Promises, Protestations"
+  },
+  {
+    "index": 225,
+    "signatures": "",
+    "pagenum": 212,
+    "category": "Clarissa",
+    "description": "V/W: Vows, Curses, Oaths, Promises, Protestations; Widow; Wills, Testators, Executors, &c."
+  },
+  {
+    "index": 226,
+    "signatures": "",
+    "pagenum": 213,
+    "category": "Clarissa",
+    "description": "W: Wills, Testators, Executors, &c.; Wit, Talents, Conversation"
+  },
+  {
+    "index": 227,
+    "signatures": "",
+    "pagenum": 214,
+    "category": "Clarissa",
+    "description": "W: Wit, Talents, Conversation; Writers"
+  },
+  {
+    "index": 228,
+    "signatures": "",
+    "pagenum": 215,
+    "category": "Clarissa",
+    "description": "W/Y: Writers; Youth"
+  },
+  {
+    "index": 229,
+    "signatures": "",
+    "pagenum": 216,
+    "category": "Clarissa",
+    "description": "Y: Youth"
+  },
+  {
+    "index": 230,
+    "signatures": "",
+    "pagenum": 217,
+    "category": "Grandison",
+    "description": "A: Absence; Address to Men of Sense in the gay World"
+  },
+  {
+    "index": 231,
+    "signatures": "",
+    "pagenum": 218,
+    "category": "Grandison",
+    "description": "A: Address to Men of Sense in the gay World"
+  },
+  {
+    "index": 232,
+    "signatures": "",
+    "pagenum": 219,
+    "category": "Grandison",
+    "description": "A: Address to Men of Sense in the gay World"
+  },
+  {
+    "index": 233,
+    "signatures": "",
+    "pagenum": 220,
+    "category": "Grandison",
+    "description": "A: Address to Men of Sense in the gay World"
+  },
+  {
+    "index": 234,
+    "signatures": "",
+    "pagenum": 221,
+    "category": "Grandison",
+    "description": "A: Address to Men of Sense in the gay World; Adversity, Calamity, Misfortune, Disappointment"
+  },
+  {
+    "index": 235,
+    "signatures": "",
+    "pagenum": 222,
+    "category": "Grandison",
+    "description": "A: Adversity, Calamity, Misfortune, Disappointment"
+  },
+  {
+    "index": 236,
+    "signatures": "",
+    "pagenum": 223,
+    "category": "Grandison",
+    "description": "A: Adversity, Calamity, Misfortune, Disappointment"
+  },
+  {
+    "index": 237,
+    "signatures": "",
+    "pagenum": 224,
+    "category": "Grandison",
+    "description": "A: Adversity, Calamity, Misfortune, Disappointment; Advice and Cautions to Women"
+  },
+  {
+    "index": 238,
+    "signatures": "",
+    "pagenum": 225,
+    "category": "Grandison",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 239,
+    "signatures": "",
+    "pagenum": 226,
+    "category": "Grandison",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 240,
+    "signatures": "",
+    "pagenum": 227,
+    "category": "Grandison",
+    "description": "A: Advice and Cautions to Women"
+  },
+  {
+    "index": 241,
+    "signatures": "",
+    "pagenum": 228,
+    "category": "Grandison",
+    "description": "A: Advice and Cautions to Women; Affectation"
+  },
+  {
+    "index": 242,
+    "signatures": "",
+    "pagenum": 229,
+    "category": "Grandison",
+    "description": "A: Affectation; Anger, Passion, Petulance, Wrath, Ill-will"
+  },
+  {
+    "index": 243,
+    "signatures": "",
+    "pagenum": 230,
+    "category": "Grandison",
+    "description": "A: Anger, Passion, Petulance, Wrath, Ill-will; Artful Men"
+  },
+  {
+    "index": 244,
+    "signatures": "",
+    "pagenum": 231,
+    "category": "Grandison",
+    "description": "A: Artful Women; Avarice, Selfishness"
+  },
+  {
+    "index": 245,
+    "signatures": "",
+    "pagenum": 232,
+    "category": "Grandison",
+    "description": "A/B: Avarice, Selfishness; Beauty, Beautiful"
+  },
+  {
+    "index": 246,
+    "signatures": "",
+    "pagenum": 233,
+    "category": "Grandison",
+    "description": "B: Beauty, Beautiful; Beneficence, Benevolence, Charity"
+  },
+  {
+    "index": 247,
+    "signatures": "",
+    "pagenum": 234,
+    "category": "Grandison",
+    "description": "B: Beneficence, Benevolence, Charity; Ungraceful Benevolence"
+  },
+  {
+    "index": 248,
+    "signatures": "",
+    "pagenum": 235,
+    "category": "Grandison",
+    "description": "B/C: Ungraceful Benevolence; Censure, Censoriousness; Challenges"
+  },
+  {
+    "index": 249,
+    "signatures": "",
+    "pagenum": 236,
+    "category": "Grandison",
+    "description": "C: Challenges"
+  },
+  {
+    "index": 250,
+    "signatures": "",
+    "pagenum": 237,
+    "category": "Grandison",
+    "description": "C: Challenges; Chastity, Unchasity"
+  },
+  {
+    "index": 251,
+    "signatures": "",
+    "pagenum": 238,
+    "category": "Grandison",
+    "description": "C: Chastity, Unchasity; Charity in Judgment; Compliments, Flattery"
+  },
+  {
+    "index": 252,
+    "signatures": "",
+    "pagenum": 239,
+    "category": "Grandison",
+    "description": "C: Compliments, Flattery"
+  },
+  {
+    "index": 253,
+    "signatures": "",
+    "pagenum": 240,
+    "category": "Grandison",
+    "description": "C: Compliments, Flattery; Compulsion"
+  },
+  {
+    "index": 254,
+    "signatures": "",
+    "pagenum": 241,
+    "category": "Grandison",
+    "description": "C: Compulsion; Concealments, Secrets, Communicativeness"
+  },
+  {
+    "index": 255,
+    "signatures": "",
+    "pagenum": 242,
+    "category": "Grandison",
+    "description": "C: Concealments, Secrets, Communicativeness; Conceit, Obstinacy, Perverseness"
+  },
+  {
+    "index": 256,
+    "signatures": "",
+    "pagenum": 243,
+    "category": "Grandison",
+    "description": "C: Conceit, Obstinacy, Perverseness; Conscience"
+  },
+  {
+    "index": 257,
+    "signatures": "",
+    "pagenum": 244,
+    "category": "Grandison",
+    "description": "C: Consolation"
+  },
+  {
+    "index": 258,
+    "signatures": "",
+    "pagenum": 245,
+    "category": "Grandison",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 259,
+    "signatures": "",
+    "pagenum": 246,
+    "category": "Grandison",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 260,
+    "signatures": "",
+    "pagenum": 247,
+    "category": "Grandison",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 261,
+    "signatures": "",
+    "pagenum": 248,
+    "category": "Grandison",
+    "description": "C: Courtship"
+  },
+  {
+    "index": 262,
+    "signatures": "",
+    "pagenum": 249,
+    "category": "Grandison",
+    "description": "C: Courtship; Courage; Curiosity; Custom"
+  },
+  {
+    "index": 263,
+    "signatures": "",
+    "pagenum": 250,
+    "category": "Grandison",
+    "description": "C/D: Custom; Daughters"
+  },
+  {
+    "index": 264,
+    "signatures": "",
+    "pagenum": 251,
+    "category": "Grandison",
+    "description": "D: Daughters; Delicacy"
+  },
+  {
+    "index": 265,
+    "signatures": "",
+    "pagenum": 252,
+    "category": "Grandison",
+    "description": "D: Delicacy; Dreams, Superstition"
+  },
+  {
+    "index": 266,
+    "signatures": "",
+    "pagenum": 253,
+    "category": "Grandison",
+    "description": "D: Dreams, Superstition; Duelling"
+  },
+  {
+    "index": 267,
+    "signatures": "",
+    "pagenum": 254,
+    "category": "Grandison",
+    "description": "D: Duelling"
+  },
+  {
+    "index": 268,
+    "signatures": "",
+    "pagenum": 255,
+    "category": "Grandison",
+    "description": "D: Duelling; Duties Moral and Religious"
+  },
+  {
+    "index": 269,
+    "signatures": "",
+    "pagenum": 256,
+    "category": "Grandison",
+    "description": "D: Duties Moral and Religious"
+  },
+  {
+    "index": 270,
+    "signatures": "",
+    "pagenum": 257,
+    "category": "Grandison",
+    "description": "D/E: Duties Moral and Religious; Ebriety, Intemperance, Riot, False Shame"
+  },
+  {
+    "index": 271,
+    "signatures": "",
+    "pagenum": 258,
+    "category": "Grandison",
+    "description": "E: Ebriety, Intemperance, Riot, False Shame; Education"
+  },
+  {
+    "index": 272,
+    "signatures": "",
+    "pagenum": 259,
+    "category": "Grandison",
+    "description": "E: Education; Example"
+  },
+  {
+    "index": 273,
+    "signatures": "",
+    "pagenum": 260,
+    "category": "Grandison",
+    "description": "E: Example; Executor"
+  },
+  {
+    "index": 274,
+    "signatures": "",
+    "pagenum": 261,
+    "category": "Grandison",
+    "description": "E/F: Executor; Families decayed; Fancy, Imagination, Romances"
+  },
+  {
+    "index": 275,
+    "signatures": "",
+    "pagenum": 262,
+    "category": "Grandison",
+    "description": "F: Fancy, Imagination, Romances"
+  },
+  {
+    "index": 276,
+    "signatures": "",
+    "pagenum": 263,
+    "category": "Grandison",
+    "description": "F: Fashion, Dress, Novelty; Female Dignity"
+  },
+  {
+    "index": 277,
+    "signatures": "",
+    "pagenum": 264,
+    "category": "Grandison",
+    "description": "F: Female Dignity; Femalities"
+  },
+  {
+    "index": 278,
+    "signatures": "",
+    "pagenum": 265,
+    "category": "Grandison",
+    "description": "F: Femalities"
+  },
+  {
+    "index": 279,
+    "signatures": "",
+    "pagenum": 266,
+    "category": "Grandison",
+    "description": "F: Femalities"
+  },
+  {
+    "index": 280,
+    "signatures": "",
+    "pagenum": 267,
+    "category": "Grandison",
+    "description": "F: Femalities"
+  },
+  {
+    "index": 281,
+    "signatures": "",
+    "pagenum": 268,
+    "category": "Grandison",
+    "description": "F: Femalities"
+  },
+  {
+    "index": 282,
+    "signatures": "",
+    "pagenum": 269,
+    "category": "Grandison",
+    "description": "F: Femalities"
+  },
+  {
+    "index": 283,
+    "signatures": "",
+    "pagenum": 270,
+    "category": "Grandison",
+    "description": "F: Fencing; Filial Piety; Forgivingness; Frankness of Heart, Reserve"
+  },
+  {
+    "index": 284,
+    "signatures": "",
+    "pagenum": 271,
+    "category": "Grandison",
+    "description": "F: Frankness of Heart, Reserve; Friendship, Friend"
+  },
+  {
+    "index": 285,
+    "signatures": "",
+    "pagenum": 272,
+    "category": "Grandison",
+    "description": "F: Friendship, Friend"
+  },
+  {
+    "index": 286,
+    "signatures": "",
+    "pagenum": 273,
+    "category": "Grandison",
+    "description": "F/G: Friendship, Friend; Gaming, Gamesters"
+  },
+  {
+    "index": 287,
+    "signatures": "",
+    "pagenum": 274,
+    "category": "Grandison",
+    "description": "G: Gaming, Gamesters; General Observations"
+  },
+  {
+    "index": 288,
+    "signatures": "",
+    "pagenum": 275,
+    "category": "Grandison",
+    "description": "G: General Observations"
+  },
+  {
+    "index": 289,
+    "signatures": "",
+    "pagenum": 276,
+    "category": "Grandison",
+    "description": "G: General Observations"
+  },
+  {
+    "index": 290,
+    "signatures": "",
+    "pagenum": 277,
+    "category": "Grandison",
+    "description": "G: General Observations; Generosity, Over-Generosity"
+  },
+  {
+    "index": 291,
+    "signatures": "",
+    "pagenum": 278,
+    "category": "Grandison",
+    "description": "G: Generosity, Over-Generosity"
+  },
+  {
+    "index": 292,
+    "signatures": "",
+    "pagenum": 279,
+    "category": "Grandison",
+    "description": "G: Generosity, Over-Generosity; Girls"
+  },
+  {
+    "index": 293,
+    "signatures": "",
+    "pagenum": 280,
+    "category": "Grandison",
+    "description": "G: Girls"
+  },
+  {
+    "index": 294,
+    "signatures": "",
+    "pagenum": 281,
+    "category": "Grandison",
+    "description": "G: Girls; Good, Goodness; Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 295,
+    "signatures": "",
+    "pagenum": 282,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 296,
+    "signatures": "",
+    "pagenum": 283,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 297,
+    "signatures": "",
+    "pagenum": 284,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 298,
+    "signatures": "",
+    "pagenum": 285,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 299,
+    "signatures": "",
+    "pagenum": 286,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 300,
+    "signatures": "",
+    "pagenum": 287,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man"
+  },
+  {
+    "index": 301,
+    "signatures": "",
+    "pagenum": 288,
+    "category": "Grandison",
+    "description": "G: Good Man, Man of Honour, Honest Man; Good Wife, Good Woman; Gratitude, Ingratitude"
+  },
+  {
+    "index": 302,
+    "signatures": "",
+    "pagenum": 289,
+    "category": "Grandison",
+    "description": "G: Gratitude, Ingratitude; Grief, Melancholy, Tears"
+  },
+  {
+    "index": 303,
+    "signatures": "",
+    "pagenum": 290,
+    "category": "Grandison",
+    "description": "G: Grief, Melancholy, Tears; Guardian, Guardianship, Ward"
+  },
+  {
+    "index": 304,
+    "signatures": "",
+    "pagenum": 291,
+    "category": "Grandison",
+    "description": "G/H: Guardian, Guardianship, Ward; Happiness, Unhappiness"
+  },
+  {
+    "index": 305,
+    "signatures": "",
+    "pagenum": 292,
+    "category": "Grandison",
+    "description": "H: Honour, Glory, Punctilio, Reputation; Hospital for Female Penitents"
+  },
+  {
+    "index": 306,
+    "signatures": "",
+    "pagenum": 293,
+    "category": "Grandison",
+    "description": "H: Humanity; Human Nature"
+  },
+  {
+    "index": 307,
+    "signatures": "",
+    "pagenum": 294,
+    "category": "Grandison",
+    "description": "H: Humility; Husband and Wife"
+  },
+  {
+    "index": 308,
+    "signatures": "",
+    "pagenum": 295,
+    "category": "Grandison",
+    "description": "H: Husband and Wife"
+  },
+  {
+    "index": 309,
+    "signatures": "",
+    "pagenum": 296,
+    "category": "Grandison",
+    "description": "H: Husband and Wife"
+  },
+  {
+    "index": 310,
+    "signatures": "",
+    "pagenum": 297,
+    "category": "Grandison",
+    "description": "H/I: Husband and Wife; Jealousy"
+  },
+  {
+    "index": 311,
+    "signatures": "",
+    "pagenum": 298,
+    "category": "Grandison",
+    "description": "I: Indulgence"
+  },
+  {
+    "index": 312,
+    "signatures": "",
+    "pagenum": 299,
+    "category": "Grandison",
+    "description": "I: Indulgence; Ingeniousness, Impartiality, Justice"
+  },
+  {
+    "index": 313,
+    "signatures": "",
+    "pagenum": 300,
+    "category": "Grandison",
+    "description": "I: Indulgence; Ingeniousness, Impartiality, Justice"
+  },
+  {
+    "index": 314,
+    "signatures": "",
+    "pagenum": 301,
+    "category": "Grandison",
+    "description": "I: Indulgence; Ingeniousness, Impartiality, Justice; Innocence, Innocent"
+  },
+  {
+    "index": 315,
+    "signatures": "",
+    "pagenum": 302,
+    "category": "Grandison",
+    "description": "J/K: Justices of Peace; Kept Women, Keeper, Keeping, Guilty Attachment"
+  },
+  {
+    "index": 316,
+    "signatures": "",
+    "pagenum": 303,
+    "category": "Grandison",
+    "description": "K: Kept Women, Keeper, Keeping, Guilty Attachment"
+  },
+  {
+    "index": 317,
+    "signatures": "",
+    "pagenum": 304,
+    "category": "Grandison",
+    "description": "K: Kept Women, Keeper, Keeping, Guilty Attachment; Kindred"
+  },
+  {
+    "index": 318,
+    "signatures": "",
+    "pagenum": 305,
+    "category": "Grandison",
+    "description": "K/L: Kindred; Law, Lawyers; Learning, Learners, Languages, Science, University"
+  },
+  {
+    "index": 319,
+    "signatures": "",
+    "pagenum": 306,
+    "category": "Grandison",
+    "description": "L: Learning, Learners, Languages, Science, University"
+  },
+  {
+    "index": 320,
+    "signatures": "",
+    "pagenum": 307,
+    "category": "Grandison",
+    "description": "L: Learning, Learners, Languages, Science, University"
+  },
+  {
+    "index": 321,
+    "signatures": "",
+    "pagenum": 308,
+    "category": "Grandison",
+    "description": "L: Learned Women"
+  },
+  {
+    "index": 322,
+    "signatures": "",
+    "pagenum": 309,
+    "category": "Grandison",
+    "description": "L: Learned Women; Libertines, Rakes"
+  },
+  {
+    "index": 323,
+    "signatures": "",
+    "pagenum": 310,
+    "category": "Grandison",
+    "description": "L: Libertines, Rakes"
+  },
+  {
+    "index": 324,
+    "signatures": "",
+    "pagenum": 311,
+    "category": "Grandison",
+    "description": "L: Libertines, Rakes"
+  },
+  {
+    "index": 325,
+    "signatures": "",
+    "pagenum": 312,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 326,
+    "signatures": "",
+    "pagenum": 313,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 327,
+    "signatures": "",
+    "pagenum": 314,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 328,
+    "signatures": "",
+    "pagenum": 315,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 329,
+    "signatures": "",
+    "pagenum": 316,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 330,
+    "signatures": "",
+    "pagenum": 317,
+    "category": "Grandison",
+    "description": "L: Love"
+  },
+  {
+    "index": 331,
+    "signatures": "",
+    "pagenum": 318,
+    "category": "Grandison",
+    "description": "L: Love; Love at first sight, Cupidity, Paphian Love"
+  },
+  {
+    "index": 332,
+    "signatures": "",
+    "pagenum": 319,
+    "category": "Grandison",
+    "description": "L: Love at first sight, Cupidity, Paphian Love"
+  },
+  {
+    "index": 333,
+    "signatures": "",
+    "pagenum": 320,
+    "category": "Grandison",
+    "description": "L: Love at first sight; First Love"
+  },
+  {
+    "index": 334,
+    "signatures": "",
+    "pagenum": 321,
+    "category": "Grandison",
+    "description": "L: Lover"
+  },
+  {
+    "index": 335,
+    "signatures": "",
+    "pagenum": 322,
+    "category": "Grandison",
+    "description": "L: Lover"
+  },
+  {
+    "index": 336,
+    "signatures": "",
+    "pagenum": 323,
+    "category": "Grandison",
+    "description": "L: Lover; Dismission or Refusal of a Lover"
+  },
+  {
+    "index": 337,
+    "signatures": "",
+    "pagenum": 324,
+    "category": "Grandison",
+    "description": "L/M: Dismission or Refusal of a Lover; Magnanimity, Spirit, Fortitude"
+  },
+  {
+    "index": 338,
+    "signatures": "",
+    "pagenum": 325,
+    "category": "Grandison",
+    "description": "M: Magnanimity, Spirit, Fortitude"
+  },
+  {
+    "index": 339,
+    "signatures": "",
+    "pagenum": 326,
+    "category": "Grandison",
+    "description": "M: Marriages"
+  },
+  {
+    "index": 340,
+    "signatures": "",
+    "pagenum": 327,
+    "category": "Grandison",
+    "description": "M: Marriages"
+  },
+  {
+    "index": 341,
+    "signatures": "",
+    "pagenum": 328,
+    "category": "Grandison",
+    "description": "M: Marriages"
+  },
+  {
+    "index": 342,
+    "signatures": "",
+    "pagenum": 329,
+    "category": "Grandison",
+    "description": "M: Marriage in advanced Years, and with an Inequality in Age"
+  },
+  {
+    "index": 343,
+    "signatures": "",
+    "pagenum": 330,
+    "category": "Grandison",
+    "description": "M: Marriage in advanced Years; Clandestine Marriages, Inferior Marriages, Fortune-Hunters"
+  },
+  {
+    "index": 344,
+    "signatures": "",
+    "pagenum": 331,
+    "category": "Grandison",
+    "description": "M: Clandestine Marriages; Marriage Treaties, Settlements"
+  },
+  {
+    "index": 345,
+    "signatures": "",
+    "pagenum": 332,
+    "category": "Grandison",
+    "description": "M: Marriage Treaties, Settlements; Marriage Proposals; Masters, Mistresses, Servants"
+  },
+  {
+    "index": 346,
+    "signatures": "",
+    "pagenum": 333,
+    "category": "Grandison",
+    "description": "M: Masters, Mistresses, Servants"
+  },
+  {
+    "index": 347,
+    "signatures": "",
+    "pagenum": 334,
+    "category": "Grandison",
+    "description": "M: Masters, Mistresses, Servants; Matrimonial Bickerings"
+  },
+  {
+    "index": 348,
+    "signatures": "",
+    "pagenum": 335,
+    "category": "Grandison",
+    "description": "M: Matrimonial Bickerings; Matronly State"
+  },
+  {
+    "index": 349,
+    "signatures": "",
+    "pagenum": 336,
+    "category": "Grandison",
+    "description": "M: Matronly State; Meanness; Meditation"
+  },
+  {
+    "index": 350,
+    "signatures": "",
+    "pagenum": 337,
+    "category": "Grandison",
+    "description": "M: Meditation; Men and Women"
+  },
+  {
+    "index": 351,
+    "signatures": "",
+    "pagenum": 338,
+    "category": "Grandison",
+    "description": "M: Men and Women"
+  },
+  {
+    "index": 352,
+    "signatures": "",
+    "pagenum": 339,
+    "category": "Grandison",
+    "description": "M: Men and Women; Military Men; Mirth, Joy, Laughter"
+  },
+  {
+    "index": 353,
+    "signatures": "",
+    "pagenum": 340,
+    "category": "Grandison",
+    "description": "M: Mirth, Joy, Laughter; Miscellaneous Observations"
+  },
+  {
+    "index": 354,
+    "signatures": "",
+    "pagenum": 341,
+    "category": "Grandison",
+    "description": "M: Miscellaneous Observations"
+  },
+  {
+    "index": 355,
+    "signatures": "",
+    "pagenum": 342,
+    "category": "Grandison",
+    "description": "M: Miscellaneous Observations"
+  },
+  {
+    "index": 356,
+    "signatures": "",
+    "pagenum": 343,
+    "category": "Grandison",
+    "description": "M: Miscellaneous Observations"
+  },
+  {
+    "index": 357,
+    "signatures": "",
+    "pagenum": 344,
+    "category": "Grandison",
+    "description": "M: Miscellaneous Observations; Modesty, Decorum"
+  },
+  {
+    "index": 358,
+    "signatures": "",
+    "pagenum": 345,
+    "category": "Grandison",
+    "description": "M: Modesty, Decorum"
+  },
+  {
+    "index": 359,
+    "signatures": "",
+    "pagenum": 346,
+    "category": "Grandison",
+    "description": "N: New-married Woman, Wedded Love"
+  },
+  {
+    "index": 360,
+    "signatures": "",
+    "pagenum": 347,
+    "category": "Grandison",
+    "description": "N: New-married Woman, Wedded Love; Nupital Preparations, Wedding-Day"
+  },
+  {
+    "index": 361,
+    "signatures": "",
+    "pagenum": 348,
+    "category": "Grandison",
+    "description": "N: Nupital Preparations, Wedding-Day"
+  },
+  {
+    "index": 362,
+    "signatures": "",
+    "pagenum": 349,
+    "category": "Grandison",
+    "description": "N/O: Nupital Preparations, Wedding-Day; Oeconomy, Early Rising"
+  },
+  {
+    "index": 363,
+    "signatures": "",
+    "pagenum": 350,
+    "category": "Grandison",
+    "description": "O: Oeconomy, Early Rising; Old Bachelors, Old Maids"
+  },
+  {
+    "index": 364,
+    "signatures": "",
+    "pagenum": 351,
+    "category": "Grandison",
+    "description": "O: Old Bachelors, Old Maids"
+  },
+  {
+    "index": 365,
+    "signatures": "",
+    "pagenum": 352,
+    "category": "Grandison",
+    "description": "O: Old Bachelors, Old Maids"
+  },
+  {
+    "index": 366,
+    "signatures": "",
+    "pagenum": 353,
+    "category": "Grandison",
+    "description": "O/P: Old Bachelors, Old Maids; Parents and Children"
+  },
+  {
+    "index": 367,
+    "signatures": "",
+    "pagenum": 354,
+    "category": "Grandison",
+    "description": "P: Parents and Children"
+  },
+  {
+    "index": 368,
+    "signatures": "",
+    "pagenum": 355,
+    "category": "Grandison",
+    "description": "P: Parents and Children"
+  },
+  {
+    "index": 369,
+    "signatures": "",
+    "pagenum": 356,
+    "category": "Grandison",
+    "description": "P: Parents and Children"
+  },
+  {
+    "index": 370,
+    "signatures": "",
+    "pagenum": 357,
+    "category": "Grandison",
+    "description": "P: Parliament Men; Partiality; The Passions"
+  },
+  {
+    "index": 371,
+    "signatures": "",
+    "pagenum": 358,
+    "category": "Grandison",
+    "description": "P: The Passions; Penitence, Reformation, Remorse, Contrition"
+  },
+  {
+    "index": 372,
+    "signatures": "",
+    "pagenum": 359,
+    "category": "Grandison",
+    "description": "P: Penitence, Reformation, Remorse, Contrition"
+  },
+  {
+    "index": 373,
+    "signatures": "",
+    "pagenum": 360,
+    "category": "Grandison",
+    "description": "P: Penitence, Reformation, Remorse, Contrition; Persuasion, Forced Marriages"
+  },
+  {
+    "index": 374,
+    "signatures": "",
+    "pagenum": 361,
+    "category": "Grandison",
+    "description": "P: Physicians, Surgeons; Pity, Compassion"
+  },
+  {
+    "index": 375,
+    "signatures": "",
+    "pagenum": 362,
+    "category": "Grandison",
+    "description": "P: Pity, Compassion; Platonic Love"
+  },
+  {
+    "index": 376,
+    "signatures": "",
+    "pagenum": 363,
+    "category": "Grandison",
+    "description": "P: Platonic Love; Poets; Polite, Politeness, Elegance"
+  },
+  {
+    "index": 377,
+    "signatures": "",
+    "pagenum": 364,
+    "category": "Grandison",
+    "description": "P: Polite, Politeness, Elegance; Praise, Self-Praise, Dispraise"
+  },
+  {
+    "index": 378,
+    "signatures": "",
+    "pagenum": 365,
+    "category": "Grandison",
+    "description": "P: Praise, Self-Praise, Dispraise"
+  },
+  {
+    "index": 379,
+    "signatures": "",
+    "pagenum": 366,
+    "category": "Grandison",
+    "description": "P: Protestant Nunneries; Protestations, Professions, Promises, Vows"
+  },
+  {
+    "index": 380,
+    "signatures": "",
+    "pagenum": 367,
+    "category": "Grandison",
+    "description": "P: Protestations, Professions, Promises, Vows; Prudence, Discretion, Wise Men"
+  },
+  {
+    "index": 381,
+    "signatures": "",
+    "pagenum": 368,
+    "category": "Grandison",
+    "description": "P: Prudence, Discretion, Wise Men"
+  },
+  {
+    "index": 382,
+    "signatures": "",
+    "pagenum": 369,
+    "category": "Grandison",
+    "description": "P: Prudence, Discretion, Wise Men; Prudery, Coquetry; Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing"
+  },
+  {
+    "index": 383,
+    "signatures": "",
+    "pagenum": 370,
+    "category": "Grandison",
+    "description": "P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing"
+  },
+  {
+    "index": 384,
+    "signatures": "",
+    "pagenum": 371,
+    "category": "Grandison",
+    "description": "P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing"
+  },
+  {
+    "index": 385,
+    "signatures": "",
+    "pagenum": 372,
+    "category": "Grandison",
+    "description": "P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing"
+  },
+  {
+    "index": 386,
+    "signatures": "",
+    "pagenum": 373,
+    "category": "Grandison",
+    "description": "P/R: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing; Recommendation; Recrimination, Reproof"
+  },
+  {
+    "index": 387,
+    "signatures": "",
+    "pagenum": 374,
+    "category": "Grandison",
+    "description": "R: Recrimination, Reproof; Religion, Piety"
+  },
+  {
+    "index": 388,
+    "signatures": "",
+    "pagenum": 375,
+    "category": "Grandison",
+    "description": "R: Religion, Piety; Retribution"
+  },
+  {
+    "index": 389,
+    "signatures": "",
+    "pagenum": 376,
+    "category": "Grandison",
+    "description": "R/S: Retribution; Ridicule, Humour, Raillery; Seduction"
+  },
+  {
+    "index": 390,
+    "signatures": "",
+    "pagenum": 377,
+    "category": "Grandison",
+    "description": "S: Seduction; Self Partiality; Sentiments; Signs of Love"
+  },
+  {
+    "index": 391,
+    "signatures": "",
+    "pagenum": 378,
+    "category": "Grandison",
+    "description": "S: Signs of Love"
+  },
+  {
+    "index": 392,
+    "signatures": "",
+    "pagenum": 379,
+    "category": "Grandison",
+    "description": "S: Signs of Love; Sincerity, Insincerity"
+  },
+  {
+    "index": 393,
+    "signatures": "",
+    "pagenum": 380,
+    "category": "Grandison",
+    "description": "S: Single Women"
+  },
+  {
+    "index": 394,
+    "signatures": "",
+    "pagenum": 381,
+    "category": "Grandison",
+    "description": "S: Single Women"
+  },
+  {
+    "index": 395,
+    "signatures": "",
+    "pagenum": 382,
+    "category": "Grandison",
+    "description": "S: Single Women"
+  },
+  {
+    "index": 396,
+    "signatures": "",
+    "pagenum": 383,
+    "category": "Grandison",
+    "description": "S: Single Women; Step-mother, Mother-in-law"
+  },
+  {
+    "index": 397,
+    "signatures": "",
+    "pagenum": 384,
+    "category": "Grandison",
+    "description": "S:  Step-mother, Mother-in-law; Suicide; Susceptibilities; Suspense"
+  },
+  {
+    "index": 398,
+    "signatures": "",
+    "pagenum": 385,
+    "category": "Grandison",
+    "description": "T: Taste; Temptation"
+  },
+  {
+    "index": 399,
+    "signatures": "",
+    "pagenum": 386,
+    "category": "Grandison",
+    "description": "T: Travellers, Travelling"
+  },
+  {
+    "index": 400,
+    "signatures": "",
+    "pagenum": 387,
+    "category": "Grandison",
+    "description": "T/V: Travellers, Travelling; Vanity, Birth, Descent, Pride; Vice, Wicked, Wickedness"
+  },
+  {
+    "index": 401,
+    "signatures": "",
+    "pagenum": 388,
+    "category": "Grandison",
+    "description": "V: Vice, Wicked, Wickedness; Vincibility of Love; Virtue"
+  },
+  {
+    "index": 402,
+    "signatures": "",
+    "pagenum": 389,
+    "category": "Grandison",
+    "description": "V/W: Virtue; Widows"
+  },
+  {
+    "index": 403,
+    "signatures": "",
+    "pagenum": 390,
+    "category": "Grandison",
+    "description": "W: Widows; Last Wills, Funerals; Wit, Witty Men, Witty Women"
+  },
+  {
+    "index": 404,
+    "signatures": "",
+    "pagenum": 391,
+    "category": "Grandison",
+    "description": "W: Wit, Witty Men, Witty Women; The World, This World"
+  },
+  {
+    "index": 405,
+    "signatures": "",
+    "pagenum": 392,
+    "category": "Grandison",
+    "description": "W/Y: The World, This World; Youth, Young Men"
+  },
+  {
+    "index": 406,
+    "signatures": "",
+    "pagenum": 393,
+    "category": "Grandison",
+    "description": "Y: Youth, Young Men"
+  },
+  {
+    "index": 407,
+    "signatures": "",
+    "pagenum": 394,
+    "category": "Grandison",
+    "description": "Z: Zeal, Zealousness"
+  },
+  {
+    "index": 408,
+    "signatures": "",
+    "pagenum": 395,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Pamela"
+  },
+  {
+    "index": 409,
+    "signatures": "",
+    "pagenum": 396,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Pamela"
+  },
+  {
+    "index": 410,
+    "signatures": "",
+    "pagenum": 397,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Pamela; History of Clarissa"
+  },
+  {
+    "index": 411,
+    "signatures": "",
+    "pagenum": 398,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Clarissa"
+  },
+  {
+    "index": 412,
+    "signatures": "",
+    "pagenum": 399,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Clarissa; History of Sir Ch. Grandison"
+  },
+  {
+    "index": 413,
+    "signatures": "",
+    "pagenum": 400,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Sir Ch. Grandison"
+  },
+  {
+    "index": 414,
+    "signatures": "",
+    "pagenum": 401,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Sir Ch. Grandison"
+  },
+  {
+    "index": 415,
+    "signatures": "",
+    "pagenum": 402,
+    "category": "Paratext",
+    "description": "Table to the Sentiments: History of Sir Ch. Grandison"
+  },
+  {
+    "index": 416,
+    "signatures": "",
+    "pagenum": 403,
+    "category": "Paratext",
+    "description": "Letter to a Lady"
+  },
+  {
+    "index": 417,
+    "signatures": "",
+    "pagenum": 404,
+    "category": "Paratext",
+    "description": "Letter to a Lady"
+  },
+  {
+    "index": 418,
+    "signatures": "",
+    "pagenum": 405,
+    "category": "Paratext",
+    "description": "Letter to a Lady"
+  },
+  {
+    "index": 419,
+    "signatures": "",
+    "pagenum": 406,
+    "category": "Paratext",
+    "description": "Letter to a Lady"
+  },
+  {
+    "index": 420,
+    "signatures": "",
+    "pagenum": 407,
+    "category": "Paratext",
+    "description": "Answer to a Letter from a Friend"
+  },
+  {
+    "index": 421,
+    "signatures": "",
+    "pagenum": 408,
+    "category": "Paratext",
+    "description": "Answer to a Letter from a Friend"
+  },
+  {
+    "index": 422,
+    "signatures": "",
+    "pagenum": 409,
+    "category": "Paratext",
+    "description": "Answer to a Letter from a Friend"
+  },
+  {
+    "index": 423,
+    "signatures": "",
+    "pagenum": 410,
+    "category": "Paratext",
+    "description": "Answer to a Letter from a Friend"
+  },
+  {
+    "index": 424,
+    "signatures": "",
+    "pagenum": "",
+    "category": "",
+    "description": "Endpaper"
+  },
+  {
+    "index": 425,
+    "signatures": "",
+    "pagenum": "",
+    "category": "",
+    "description": "Endpaper"
+  },
+  {
+    "index": 426,
+    "signatures": "",
+    "pagenum": "",
+    "category": "",
+    "description": "Back of board"
+  },
+  {
+    "index": 427,
+    "signatures": "",
+    "pagenum": "",
+    "category": "",
+    "description": "Board"
   }
 ]

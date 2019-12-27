@@ -1,24 +1,428 @@
-﻿"index","signatures","pagenum","category","description"
-"1","","","",""
-"2","1r","1","Reeve’s Tale","Lines 4246-4283"
-"3","1v","2","Reeve’s Tale","Lines 4284-4321."
-"4","2r","3","Cook’s Tale","Lines 4322-4356"
-"5","2v","4","Cook’s Tale","Lines 4357-4372"
-"6","3r","5","Man of Law’s Tale","Lines 95-98 above the illumination, lines 99-105 would have been below"
-"7","3v","6","Man of Law’s Tale","Lines 106-140"
-"8","4r","7","Man of Law’s Tale","Lines 211-245"
-"9","4v","8","Man of Law’s Tale","Lines 245-280"
-"10","5r","9","Man of Law’s Tale","Lines 316-350"
-"11","5v","10","Man of Law’s Tale","Lines 1051-1085"
-"12","6r","11","Man of Law’s Tale","Lines 1086-1120"
-"13","6v","12","Squire’s Tale","Lines 57-94"
-"14","7r","13","Squire’s Tale","Lines 95-132"
-"15","7v","14","Canon’s Yeoman’s Tale","Lines 1091-1128"
-"16","8r","15","Canon’s Yeoman’s Tale","Lines 1129-1167"
-"17","8v","16","Canon’s Yeoman’s Tale",""
-"18","9r","17","Tale of Sir Thopas","Lines 846-883"
-"19","9v","18","Tale of Sir Thopas","Lines 884-922"
-"20","10r","19","Parson’s Tale",""
-"21","10v","20","Parson’s Tale",""
-"22","11r","21","Parson’s Tale",""
-"23","11v","22","Parson’s Tale",""
+index,signatures,pagenum,category,description
+1,,,,
+2,,Board,,
+3,,Board-back,,
+4,1r,,Paratext,
+5,1v,,Paratext,
+6,2r,iii,Paratext,
+7,2v,iv,Paratext,
+8,3r,v,Paratext,
+9,3v,vi,Paratext,
+10,4r,vii,Paratext,
+11,4v,viii,Paratext,
+12,5r,ix,Paratext,
+13,5v,x,Paratext,
+14,6r,1,Pamela,A: Address to the Rich
+15,6v,2,Pamela ,"A: Advantages of Men over Women, owing to Women Themselves; Adversity"
+16,7r,3,Pamela ,A: Adversity; Advice to young married Women; Advice to Young Women
+17,7v,4,Pamela ,A: Advice to Young Women
+18,8r,5,Pamela ,A: Advice to Young Women
+19,8v,6,Pamela ,"A/B: Advice to Young Women; Anger; B: Bashfulness, Sheepishness"
+20,9r,7,Pamela ,"B: Bashfulness, Sheepishness; Beauty; Beneficence"
+21,9v,8,Pamela ,"C: Calumny, Censure, Censoriousness; Cautions to young Female Servants"
+22,10r,9,Pamela ,"C: Cautions to young Female Servants; Charity, Alms-giving"
+23,10v,10,Pamela ,"C: Charity, Alms-giving; Chearfulness; Children in their early Infancy"
+24,11r,11,Pamela ,"C: Children in their early Infancy; Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds"
+25,11v,12,Pamela ,"C: Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds; Children and Servants"
+26,12r,13,Pamela ,C: Clergy
+27,12v,14,Pamela ,C: Clergy
+28,13r,15,Pamela,C: Clergy; Clergyman's Wife 
+29,13v,16,Pamela ,"C: Clergyman's Wife; Competency; Conscience, Consciousness "
+30,,17,Pamela ,C: Conjugal Piety; Consolation; Consolation to the Poor 
+31,,18,Pamela ,C: Consolation to the Poor; Courtship
+32,,19,Pamela ,C: Coursthip; Credulity; Custom 
+33,,20,Pamela ,C/D: Custom; Death; Double Entendre 
+34,,21,Pamela ,D/E: Dress; Duty to Superiors; Education
+35,,22,Pamela ,E: Education
+36,,23,Pamela ,E: Education
+37,,24,Pamela ,E: Education
+38,,25,Pamela ,E: Education
+39,,26,Pamela ,E: Education
+40,,27,Pamela ,E: Education
+41,,28,Pamela ,E: Education; Female Education
+42,,29,Pamela,E: Female Education; Envy; Example
+43,,30,Pamela ,E/F: Example; Fashion; Female Dignity
+44,,31,Pamela ,F: Female Dignity; Filial Piety; Flattery; Forgiveness
+45,,32,Pamela ,F: Forgiveness; Fortitude; Friendship
+46,,33,Pamela ,F/G: Friendship; General Instructions
+47,,34,Pamela ,G: General Instructions; General Observations
+48,,35,Pamela ,G: General Observations
+49,,36,Pamela ,G: General Observations; Genius; Good Men; Good Wife
+50,,37,Pamela ,G/H: Gratitude; Guardian; Happiness
+51,,38,Pamela ,H: Happiness; Heroic Poverty
+52,,39,Pamela ,"H: Heroic Poverty; High Life, a Picture of it, from Infancy to Maturity "
+53,,40,Pamela ,"H: High Life, a Picture of it, from Infancy to Maturity; Histories and Characters of particular Ladies"
+54,,41,Pamela ,H: Histories and Characters of Particular Ladies; Honour; Human Life 
+55,,42,Pamela ,H: Human Nature; Humility; Husband and Wife
+56,,43,Pamela,"H/I: Husband and Wife; Impartiality, Partiality"
+57,,44,Pamela ,"I/K/L: Industry; Keeping; Lawyer; Libertines, Rakes"
+58,,45,Pamela ,"L: Libertines, Rakes; Love"
+59,,46,Pamela ,L: Love
+60,,47,Pamela ,L: Love; Love at first sight
+61,,48,Pamela ,L/P: Love at first sight; Platonic Love 
+62,,49,Pamela ,L/M: Low Life; Magnanimity
+63,,50,Pamela ,M: Magnanimity; Marriage
+64,,51,Pamela ,M: Marriage; Unequal Marriages; Master's Behaviour to his Female Servant
+65,,52,Pamela ,M: Master's Behaviour to his Female Servant; Maternal Duty
+66,,53,Pamela ,M: Merit; Mistress of a Family
+67,,54,Pamela ,M/O: Mistress of a Family; Modesty; Moral Men; Obligation
+68,,55,Pamela ,O/P: Obligation; Obstinacy; Old Maids; Old Rakes; Parents and Children
+69,,56,Pamela ,"P: Parents and Children; Passion, Passionate; Patrons "
+70,,57,Pamela,P: Patrons; Penitence
+71,,58,Pamela ,P: Political Observations; Poor not to be despised by the Rich
+72,,59,Pamela ,"P: Poor not to be despised by the Rich; Praise; Pride, Proud"
+73,,60,Pamela ,"P: Pride, Proud"
+74,,61,Pamela ,"P: Pride, Proud; Promises, Vows; Prosperity"
+75,,62,Pamela ,"P: Prosperity; Public Entertainments, Town Diversions"
+76,,63,Pamela ,"P: Public Entertainments, Town Diversions"
+77,,64,Pamela ,"P/Q/R: Public Entertainments, Town Diversions; Rectitude of Mind; Reformation"
+78,,65,Pamela ,R: Reformation
+79,,66,Pamela ,R: Reformation; Relations
+80,,67,Pamela ,"R: Relations; Religion, Religious Considerations"
+81,,68,Pamela ,R: Religious Considerations; Reproofs; Reputation; Resignation
+82,,69,Pamela ,"R: Resignation; The Rich, Riches"
+83,,70,Pamela ,"R: The Rich, Riches; Ridicule; Romances, Romantic Time of Life"
+84,,71,Pamela,"R/S: Romances, Romantic Time of Life; Scholar; Self-Interest; Servants"
+85,,72,Pamela ,"S: Servants; Shame, Shamelesness"
+86,,73,Pamela ,"S: Shame, Shamelesness; Sickness, Visiting the Sick; Spiritual Pride; Steward; Stile in Writing"
+87,,74,Pamela ,S: Stile in Writing; Suicide
+88,,75,Pamela ,S/T: Swearing and Cursing; Temptations; Travelling
+89,,76,Pamela ,T: Travelling
+90,,77,Pamela ,T: Travelling; Tutors; Tythes 
+91,,78,Pamela ,"T/V: Tythes; Vapourishness; Vigilance; Virtue, Chastity "
+92,,79,Pamela ,"V: Virtue, Chastity"
+93,,80,Pamela ,"V/W: Virtue, Chastity; Voluptuousness; Wife"
+94,,81,Pamela ,W: Wife
+95,,82,Pamela ,W/X/Y: Wit; Writers; Young Widows 
+96,,83,Pamela ,Y: Youth
+97,,84,Clarissa,Blank
+98,,85,Clarissa,"A: Adversity, Affliction, Calamity, Misfortune"
+99,,86,Clarissa,"A: Adversity, Affliction, Calamity, Misfortune"
+100,,87,Clarissa,"A: Adversity, Affliction, Calamity, Misfortune; Advice and Cautions to Women"
+101,,88,Clarissa,A: Advice and Cautions to Women
+102,,89,Clarissa,A: Advice and Cautions to Women
+103,,90,Clarissa,A: Advice and Cautions to Women
+104,,91,Clarissa,A: Advice and Cautions to Women
+105,,92,Clarissa,A: Advice and Cautions to Women
+106,,93,Clarissa,"A: Advice and Cautions to Women; Air and Manner, Address"
+107,,94,Clarissa,"A: Anger, Displeasure"
+108,,95,Clarissa,"A/B: Anger, Displeasure; Apprehensions, Fears; Beauty, Figure"
+109,,96,Clarissa,"B/C: Beauty, Figure; Blushes, Blushing; Censure, Character"
+110,,97,Clarissa,"C: Censure, Character"
+111,,98,Clarissa,"C: Censure, Character; Charity, Beneficence, Benevolence"
+112,,99,Clarissa,"C: Charity, Beneficence, Benevolence; Church, Clergy"
+113,,100,Clarissa,"C: Church, Clergy; Comedies, Tragedies, Music, Dancing"
+114,,101,Clarissa,"C: Comedies, Tragedies, Music, Dancing; Condescension; Conscience, Consciousness"
+115,,102,Clarissa,"C: Conscience, Consciousness; Consolation"
+116,,103,Clarissa,C: Consolation
+117,,104,Clarissa,"C: Consolation; Control, Authority"
+118,,105,Clarissa,"C: Control, Authority; Covetousness, Avarice"
+119,,106,Clarissa,C: Courtship
+120,,107,Clarissa,C: Courtship
+121,,108,Clarissa,"C: Courtship; Credulity; Cruelty, Hard-heartedness"
+122,,109,Clarissa,"C/D: Cruelty, Hard-heartedness; Death, Dying"
+123,,110,Clarissa,"D: Death, Dying"
+124,,111,Clarissa,"D: Death, Dying; Delicacy, Decency, Decorum"
+125,,112,Clarissa,"D: Delicacy, Decency, Decorum; Despondency, Despair; Deviation"
+126,,113,Clarissa,"D: Deviation; Dignity, Quality"
+127,,114,Clarissa,"D: Dignity, Quality; Double Entendre; Dress, Fashions, Elegance"
+128,,115,Clarissa,"D: Dress, Fashions, Elegance"
+129,,116,Clarissa,"D: Dress, Fashions, Elegance; Dueling"
+130,,117,Clarissa,"D: Dueling; Duty, Obedience"
+131,,118,Clarissa,"D: Duty, Obedience"
+132,,119,Clarissa,"D/E: Duty, Obedience; Educaiton"
+133,,120,Clarissa,E: Education; Example; Expectation
+134,,121,Clarissa,"E/F: Eyes; Faults, Folly, Failings, Error"
+135,,122,Clarissa,"F: Faults, Folly, Failings, Error; Favour"
+136,,123,Clarissa,"F: Favour; Flattery, Compliments; Fond, Fondness"
+137,,124,Clarissa,"F: Fond, Fondness; Forgiveness, Pardon"
+138,,125,Clarissa,F: Forgiveness; Friendship
+139,,126,Clarissa,F: Friendship
+140,,127,Clarissa,F: Friendship
+141,,128,Clarissa,F/G: Friendship; Gaming
+142,,129,Clarissa,"G: Gaming; Generosity, Generous Minds"
+143,,130,Clarissa,"G: Generosity, Generous Minds"
+144,,131,Clarissa,"G: Generosity; Generous Minds; Goodness, Grace; Gratitude, Ingratitude"
+145,,132,Clarissa,"G: Gratitude, Ingratitude; Grief, Sorrow, Grievances"
+146,,133,Clarissa,"G: Grief, Sorrow, Grievances; Guilt, Vice, Wickedness, Evil Habits, Evil Courses"
+147,,134,Clarissa,"G/H: Guilt, Vice, Wickedness, Evil Habits, Evil Courses; Happiness, Content"
+148,,135,Clarissa,"H: Happiness, Content; Health; Heart, Humanity"
+149,,136,Clarissa,"H: Heart, Humanity; Honesty"
+150,,137,Clarissa,H: Honesty; Human Life
+151,,138,Clarissa,H: Human Nature; Humility
+152,,139,Clarissa,H: Husband and Wife 
+153,,140,Clarissa,H: Husband and Wife 
+154,,141,Clarissa,"H/I: Husband and Wife; Hypocrisy; Ill-will, Envy, Hatred, Malice, Spite "
+155,,142,Clarissa,"I: Ill-will, Envy, Hatred, Malice, Spite; Imagination; Inclination"
+156,,143,Clarissa,"I: Indiscretion, Inconsiderateness, Presumption; Infidel, Scoffer; Innocence"
+157,,144,Clarissa,I/J: Innocence; Insolence; Judgment 
+158,,145,Clarissa,"J: Judgment; Justice, Injustice, Right, Wrong"
+159,,146,Clarissa,"J/K: Justice, Injustice, Right, Wrong; Keepers, Keeping"
+160,,147,Clarissa,"K/L: Keepers, Keeping; Law, Lawyer"
+161,,148,Clarissa,"L: Law, Lawyer; Learning; Libertine, Rake"
+162,,149,Clarissa,"L: Libertine, Rake"
+163,,150,Clarissa,"L: Libertine, Rake; Little Spirits, Meanness, Narrowness"
+164,,151,Clarissa,"L: Little Spirits, Meanness, Narrowness; Love"
+165,,152,Clarissa,L: Love
+166,,153,Clarissa,L: Love
+167,,154,Clarissa,L: Love; Love at first sight; Lover
+168,,155,Clarissa,"L/M: Lover; Magnanimity, Fortitude, Hope, Steadiness"
+169,,156,Clarissa,"M: Magnanimity, Fortitude, Hope, Steadiness; Marriage"
+170,,157,Clarissa,M: Marriage
+171,,158,Clarissa,M: Marriage
+172,,159,Clarissa,"M: Marriage; Masters, Mistresses, Servants"
+173,,160,Clarissa,"M: Masters, Mistresses, Servants"
+174,,161,Clarissa,"M: Masters, Mistresses, Servants; Meekness; Men and Women"
+175,,162,Clarissa,"M: Men and Women; Merit, Demerit"
+176,,163,Clarissa,"M: Minutiae; Modesty, Audacity"
+177,,164,Clarissa,"M/O: Modesty, Audacity; Obligation, Oblige, Obliging Temper"
+178,,165,Clarissa,"O: Obstinacy, Perverseness, Forwardness, Pertness; General Observations and Reflections"
+179,,166,Clarissa,O: General Observations and Reflections
+180,,167,Clarissa,O: General Observations and Reflections
+181,,168,Clarissa,"O: General Observations and Reflections; Oeconomy, Frugality, Housewifry"
+182,,169,Clarissa,"O/P: Oeconomy, Frugality, Housewifry; Palliation, Evasion, Excuse; Parents, Children"
+183,,170,Clarissa,"P: Parents, Children"
+184,,171,Clarissa,"P: Parents, Children"
+185,,172,Clarissa,"MISSING"
+186,,173,Clarissa,"MISSING"
+187,,174,Clarissa,"?"
+188,,175,Clarissa,"P: Passions"
+189,,176,Clarissa,"P: Passions; Patience, Impatience"
+190,,177,Clarissa,"P: Patience, Impatience; Pedants, Colleges; Physic, Physicians"
+191,,178,Clarissa,"P: Physic, Physicians"
+192,,179,Clarissa,"P: Physic, Physicians; Pity, Mercy; Politeness, Travelling "
+193,,180,Clarissa,"P: Politeness, Travelling; Political Precepts; Poverty, Poor"
+194,,181,Clarissa,"P: Poverty, Poor; Power, Independence; Praise, Dispraise, Applause, Blame"
+195,,182,Clarissa,"P: Praise, Dispraise, Applause, Blame; Prejudice, Prepossession, Antipathy"
+196,,183,Clarissa,"P: Prejudice, Prepossession, Antipathy; Pride"
+197,,184,Clarissa,"P: Pride; Procuress, Profligate Women"
+198,,185,Clarissa,"P: Procuress, Profligate Women; Prosperity, Success, Riches"
+199,,186,Clarissa,"P: Prosperity, Success, Riches; Providence"
+200,,187,Clarissa,"P: Prudence, Wisdom, Discretion"
+201,,188,Clarissa,"P/R: Prudence, Wisdom, Discretion; Purity; Rapes"
+202,,189,Clarissa,R: Rapes; Reflections on Women
+203,,190,Clarissa,R: Reflections on Women
+204,,191,Clarissa,R: Reflections on Women
+205,,192,Clarissa,R: Reflections on Women
+206,,193,Clarissa,"R: Reflections on Women; Reformation, Conviction, Conversion"
+207,,194,Clarissa,"R: Reformation, Conviction, Conversion; Relations; Religion, Piety, Devotion, Sabbath"
+208,,195,Clarissa,"R: Religion, Piety, Devotion, Sabbath"
+209,,196,Clarissa,"R: Religion, Piety, Devotion, Sabbath; Remorse"
+210,,197,Clarissa,"R: Remorse; Repentance, Contrition"
+211,,198,Clarissa,"R: Repentance, Contrition; Reprehension, Reproof, Correction"
+212,,199,Clarissa,"R: Reputation; Resentment; Respect, Reverence"
+213,,200,Clarissa,"R/S: Respect, Reverence; Revenge; Satire"
+214,,201,Clarissa,"S: Satire; Secrets, Curiosity"
+215,,202,Clarissa,"S: Self, Self-Interest, Selfishness"
+216,,203,Clarissa,"S: Self, Self-Interest, Selfishness; Sensuality; Sickness, Infirmities"
+217,,204,Clarissa,"S/T: Sickness, Infirmities; Suspicion, Doubt, Jealousy; Tears"
+218,,205,Clarissa,"T: Tears; Theory; Thoughtfulness, Sensibility; Tyranny"
+219,,206,Clarissa,"T/V: Tyranny; Vanity, Conceit, Affectation"
+220,,207,Clarissa,"V: Vanity, Conceit, Affectation; Vapours"
+221,,208,Clarissa,"V: Vapours; Veracity, Truth; Violent Spirits"
+222,,209,Clarissa,"V: Violent Spirits; Virtue, Virtuous, Principle"
+223,,210,Clarissa,"V: Virtue, Virtuous, Principle; Vivacity"
+224,,211,Clarissa,"V: Vivacity; Vows, Curses, Oaths, Promises, Protestations"
+225,,212,Clarissa,"V/W: Vows, Curses, Oaths, Promises, Protestations; Widow; Wills, Testators, Executors, &c."
+226,,213,Clarissa,"W: Wills, Testators, Executors, &c.; Wit, Talents, Conversation"
+227,,214,Clarissa,"W: Wit, Talents, Conversation; Writers"
+228,,215,Clarissa,W/Y: Writers; Youth
+229,,216,Clarissa,Y: Youth
+230,,217,Grandison,A: Absence; Address to Men of Sense in the gay World
+231,,218,Grandison,A: Address to Men of Sense in the gay World
+232,,219,Grandison,A: Address to Men of Sense in the gay World
+233,,220,Grandison,A: Address to Men of Sense in the gay World
+234,,221,Grandison,"A: Address to Men of Sense in the gay World; Adversity, Calamity, Misfortune, Disappointment"
+235,,222,Grandison,"A: Adversity, Calamity, Misfortune, Disappointment"
+236,,223,Grandison,"A: Adversity, Calamity, Misfortune, Disappointment"
+237,,224,Grandison,"A: Adversity, Calamity, Misfortune, Disappointment; Advice and Cautions to Women"
+238,,225,Grandison,A: Advice and Cautions to Women
+239,,226,Grandison,A: Advice and Cautions to Women
+240,,227,Grandison,A: Advice and Cautions to Women
+241,,228,Grandison,A: Advice and Cautions to Women; Affectation
+242,,229,Grandison,"A: Affectation; Anger, Passion, Petulance, Wrath, Ill-will"
+243,,230,Grandison,"A: Anger, Passion, Petulance, Wrath, Ill-will; Artful Men"
+244,,231,Grandison,"A: Artful Women; Avarice, Selfishness"
+245,,232,Grandison,"A/B: Avarice, Selfishness; Beauty, Beautiful "
+246,,233,Grandison,"B: Beauty, Beautiful; Beneficence, Benevolence, Charity"
+247,,234,Grandison,"B: Beneficence, Benevolence, Charity; Ungraceful Benevolence"
+248,,235,Grandison,"B/C: Ungraceful Benevolence; Censure, Censoriousness; Challenges"
+249,,236,Grandison,C: Challenges
+250,,237,Grandison,"C: Challenges; Chastity, Unchasity"
+251,,238,Grandison,"C: Chastity, Unchasity; Charity in Judgment; Compliments, Flattery"
+252,,239,Grandison,"C: Compliments, Flattery"
+253,,240,Grandison,"C: Compliments, Flattery; Compulsion"
+254,,241,Grandison,"C: Compulsion; Concealments, Secrets, Communicativeness"
+255,,242,Grandison,"C: Concealments, Secrets, Communicativeness; Conceit, Obstinacy, Perverseness"
+256,,243,Grandison,"C: Conceit, Obstinacy, Perverseness; Conscience"
+257,,244,Grandison,C: Consolation
+258,,245,Grandison,C: Courtship
+259,,246,Grandison,C: Courtship
+260,,247,Grandison,C: Courtship
+261,,248,Grandison,C: Courtship
+262,,249,Grandison,C: Courtship; Courage; Curiosity; Custom
+263,,250,Grandison,C/D: Custom; Daughters
+264,,251,Grandison,D: Daughters; Delicacy
+265,,252,Grandison,"D: Delicacy; Dreams, Superstition"
+266,,253,Grandison,"D: Dreams, Superstition; Duelling"
+267,,254,Grandison,D: Duelling
+268,,255,Grandison,D: Duelling; Duties Moral and Religious 
+269,,256,Grandison,D: Duties Moral and Religious
+270,,257,Grandison,"D/E: Duties Moral and Religious; Ebriety, Intemperance, Riot, False Shame"
+271,,258,Grandison,"E: Ebriety, Intemperance, Riot, False Shame; Education"
+272,,259,Grandison,E: Education; Example
+273,,260,Grandison,E: Example; Executor
+274,,261,Grandison,"E/F: Executor; Families decayed; Fancy, Imagination, Romances"
+275,,262,Grandison,"F: Fancy, Imagination, Romances"
+276,,263,Grandison,"F: Fashion, Dress, Novelty; Female Dignity"
+277,,264,Grandison,F: Female Dignity; Femalities
+278,,265,Grandison,F: Femalities
+279,,266,Grandison,F: Femalities
+280,,267,Grandison,F: Femalities
+281,,268,Grandison,F: Femalities
+282,,269,Grandison,F: Femalities
+283,,270,Grandison,"F: Fencing; Filial Piety; Forgivingness; Frankness of Heart, Reserve"
+284,,271,Grandison,"F: Frankness of Heart, Reserve; Friendship, Friend"
+285,,272,Grandison,"F: Friendship, Friend"
+286,,273,Grandison,"F/G: Friendship, Friend; Gaming, Gamesters"
+287,,274,Grandison,"G: Gaming, Gamesters; General Observations"
+288,,275,Grandison,G: General Observations
+289,,276,Grandison,G: General Observations
+290,,277,Grandison,"G: General Observations; Generosity, Over-Generosity"
+291,,278,Grandison,"G: Generosity, Over-Generosity"
+292,,279,Grandison,"G: Generosity, Over-Generosity; Girls"
+293,,280,Grandison,G: Girls
+294,,281,Grandison,"G: Girls; Good, Goodness; Good Man, Man of Honour, Honest Man"
+295,,282,Grandison,"G: Good Man, Man of Honour, Honest Man"
+296,,283,Grandison,"G: Good Man, Man of Honour, Honest Man"
+297,,284,Grandison,"G: Good Man, Man of Honour, Honest Man"
+298,,285,Grandison,"G: Good Man, Man of Honour, Honest Man"
+299,,286,Grandison,"G: Good Man, Man of Honour, Honest Man"
+300,,287,Grandison,"G: Good Man, Man of Honour, Honest Man"
+301,,288,Grandison,"G: Good Man, Man of Honour, Honest Man; Good Wife, Good Woman; Gratitude, Ingratitude"
+302,,289,Grandison,"G: Gratitude, Ingratitude; Grief, Melancholy, Tears"
+303,,290,Grandison,"G: Grief, Melancholy, Tears; Guardian, Guardianship, Ward"
+304,,291,Grandison,"G/H: Guardian, Guardianship, Ward; Happiness, Unhappiness"
+305,,292,Grandison,"H: Honour, Glory, Punctilio, Reputation; Hospital for Female Penitents"
+306,,293,Grandison,H: Humanity; Human Nature
+307,,294,Grandison,H: Humility; Husband and Wife
+308,,295,Grandison,H: Husband and Wife 
+309,,296,Grandison,H: Husband and Wife 
+310,,297,Grandison,H/I: Husband and Wife; Jealousy
+311,,298,Grandison,I: Indulgence
+312,,299,Grandison,"I: Indulgence; Ingeniousness, Impartiality, Justice"
+313,,300,Grandison,"I: Indulgence; Ingeniousness, Impartiality, Justice"
+314,,301,Grandison,"I: Indulgence; Ingeniousness, Impartiality, Justice; Innocence, Innocent"
+315,,302,Grandison,"J/K: Justices of Peace; Kept Women, Keeper, Keeping, Guilty Attachment"
+316,,303,Grandison,"K: Kept Women, Keeper, Keeping, Guilty Attachment"
+317,,304,Grandison,"K: Kept Women, Keeper, Keeping, Guilty Attachment; Kindred"
+318,,305,Grandison,"K/L: Kindred; Law, Lawyers; Learning, Learners, Languages, Science, University"
+319,,306,Grandison,"L: Learning, Learners, Languages, Science, University"
+320,,307,Grandison,"L: Learning, Learners, Languages, Science, University"
+321,,308,Grandison,L: Learned Women
+322,,309,Grandison,"L: Learned Women; Libertines, Rakes"
+323,,310,Grandison,"L: Libertines, Rakes"
+324,,311,Grandison,"L: Libertines, Rakes"
+325,,312,Grandison,L: Love
+326,,313,Grandison,L: Love
+327,,314,Grandison,L: Love
+328,,315,Grandison,L: Love
+329,,316,Grandison,L: Love
+330,,317,Grandison,L: Love
+331,,318,Grandison,"L: Love; Love at first sight, Cupidity, Paphian Love"
+332,,319,Grandison,"L: Love at first sight, Cupidity, Paphian Love"
+333,,320,Grandison,L: Love at first sight; First Love
+334,,321,Grandison,L: Lover
+335,,322,Grandison,L: Lover
+336,,323,Grandison,L: Lover; Dismission or Refusal of a Lover
+337,,324,Grandison,"L/M: Dismission or Refusal of a Lover; Magnanimity, Spirit, Fortitude"
+338,,325,Grandison,"M: Magnanimity, Spirit, Fortitude"
+339,,326,Grandison,M: Marriages
+340,,327,Grandison,M: Marriages
+341,,328,Grandison,M: Marriages
+342,,329,Grandison,"M: Marriage in advanced Years, and with an Inequality in Age"
+343,,330,Grandison,"M: Marriage in advanced Years; Clandestine Marriages, Inferior Marriages, Fortune-Hunters"
+344,,331,Grandison,"M: Clandestine Marriages; Marriage Treaties, Settlements"
+345,,332,Grandison,"M: Marriage Treaties, Settlements; Marriage Proposals; Masters, Mistresses, Servants"
+346,,333,Grandison,"M: Masters, Mistresses, Servants"
+347,,334,Grandison,"M: Masters, Mistresses, Servants; Matrimonial Bickerings"
+348,,335,Grandison,M: Matrimonial Bickerings; Matronly State
+349,,336,Grandison,M: Matronly State; Meanness; Meditation
+350,,337,Grandison,M: Meditation; Men and Women
+351,,338,Grandison,M: Men and Women
+352,,339,Grandison,"M: Men and Women; Military Men; Mirth, Joy, Laughter"
+353,,340,Grandison,"M: Mirth, Joy, Laughter; Miscellaneous Observations"
+354,,341,Grandison,M: Miscellaneous Observations
+355,,342,Grandison,M: Miscellaneous Observations
+356,,343,Grandison,M: Miscellaneous Observations
+357,,344,Grandison,"M: Miscellaneous Observations; Modesty, Decorum "
+358,,345,Grandison,"M: Modesty, Decorum"
+359,,346,Grandison,"N: New-married Woman, Wedded Love"
+360,,347,Grandison,"N: New-married Woman, Wedded Love; Nupital Preparations, Wedding-Day"
+361,,348,Grandison,"N: Nupital Preparations, Wedding-Day"
+362,,349,Grandison,"N/O: Nupital Preparations, Wedding-Day; Oeconomy, Early Rising"
+363,,350,Grandison,"O: Oeconomy, Early Rising; Old Bachelors, Old Maids"
+364,,351,Grandison,"O: Old Bachelors, Old Maids"
+365,,352,Grandison,"O: Old Bachelors, Old Maids"
+366,,353,Grandison,"O/P: Old Bachelors, Old Maids; Parents and Children "
+367,,354,Grandison,P: Parents and Children
+368,,355,Grandison,P: Parents and Children
+369,,356,Grandison,P: Parents and Children
+370,,357,Grandison,P: Parliament Men; Partiality; The Passions
+371,,358,Grandison,"P: The Passions; Penitence, Reformation, Remorse, Contrition"
+372,,359,Grandison,"P: Penitence, Reformation, Remorse, Contrition"
+373,,360,Grandison,"P: Penitence, Reformation, Remorse, Contrition; Persuasion, Forced Marriages"
+374,,361,Grandison,"P: Physicians, Surgeons; Pity, Compassion"
+375,,362,Grandison,"P: Pity, Compassion; Platonic Love"
+376,,363,Grandison,"P: Platonic Love; Poets; Polite, Politeness, Elegance"
+377,,364,Grandison,"P: Polite, Politeness, Elegance; Praise, Self-Praise, Dispraise "
+378,,365,Grandison,"P: Praise, Self-Praise, Dispraise "
+379,,366,Grandison,"P: Protestant Nunneries; Protestations, Professions, Promises, Vows"
+380,,367,Grandison,"P: Protestations, Professions, Promises, Vows; Prudence, Discretion, Wise Men"
+381,,368,Grandison,"P: Prudence, Discretion, Wise Men"
+382,,369,Grandison,"P: Prudence, Discretion, Wise Men; Prudery, Coquetry; Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing "
+383,,370,Grandison,"P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing "
+384,,371,Grandison,"P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing "
+385,,372,Grandison,"P: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing "
+386,,373,Grandison,"P/R: Public Places, Modern fine Ladies and Gentleman, Depravity of Times and Manners, Racketing; Recommendation; Recrimination, Reproof "
+387,,374,Grandison,"R: Recrimination, Reproof; Religion, Piety"
+388,,375,Grandison,"R: Religion, Piety; Retribution "
+389,,376,Grandison,"R/S: Retribution; Ridicule, Humour, Raillery; Seduction "
+390,,377,Grandison,S: Seduction; Self Partiality; Sentiments; Signs of Love
+391,,378,Grandison,S: Signs of Love
+392,,379,Grandison,"S: Signs of Love; Sincerity, Insincerity"
+393,,380,Grandison,S: Single Women
+394,,381,Grandison,S: Single Women
+395,,382,Grandison,S: Single Women
+396,,383,Grandison,"S: Single Women; Step-mother, Mother-in-law"
+397,,384,Grandison,"S:  Step-mother, Mother-in-law; Suicide; Susceptibilities; Suspense"
+398,,385,Grandison,T: Taste; Temptation
+399,,386,Grandison,"T: Travellers, Travelling"
+400,,387,Grandison,"T/V: Travellers, Travelling; Vanity, Birth, Descent, Pride; Vice, Wicked, Wickedness"
+401,,388,Grandison,"V: Vice, Wicked, Wickedness; Vincibility of Love; Virtue"
+402,,389,Grandison,V/W: Virtue; Widows
+403,,390,Grandison,"W: Widows; Last Wills, Funerals; Wit, Witty Men, Witty Women"
+404,,391,Grandison,"W: Wit, Witty Men, Witty Women; The World, This World"
+405,,392,Grandison,"W/Y: The World, This World; Youth, Young Men"
+406,,393,Grandison,"Y: Youth, Young Men"
+407,,394,Grandison,"Z: Zeal, Zealousness"
+408,,395,Paratext,Table to the Sentiments: History of Pamela
+409,,396,Paratext,Table to the Sentiments: History of Pamela
+410,,397,Paratext,Table to the Sentiments: History of Pamela; History of Clarissa
+411,,398,Paratext,Table to the Sentiments: History of Clarissa 
+412,,399,Paratext,Table to the Sentiments: History of Clarissa; History of Sir Ch. Grandison
+413,,400,Paratext,Table to the Sentiments: History of Sir Ch. Grandison
+414,,401,Paratext,Table to the Sentiments: History of Sir Ch. Grandison
+415,,402,Paratext,Table to the Sentiments: History of Sir Ch. Grandison
+416,,403,Paratext,Letter to a Lady
+417,,404,Paratext,Letter to a Lady
+418,,405,Paratext,Letter to a Lady
+419,,406,Paratext,Letter to a Lady
+420,,407,Paratext,Answer to a Letter from a Friend
+421,,408,Paratext,Answer to a Letter from a Friend
+422,,409,Paratext,Answer to a Letter from a Friend
+423,,410,Paratext,Answer to a Letter from a Friend
+424,,,,Endpaper
+425,,,,Endpaper
+426,,,,Back of board
+427,,,,Board 
