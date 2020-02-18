@@ -151,4 +151,3 @@ NavGroup.propTypes = {
   currentPage: PropTypes.number.isRequired,
   edition: PropTypes.string.isRequired,
 }
-

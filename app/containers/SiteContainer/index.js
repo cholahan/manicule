@@ -19,14 +19,16 @@ export default class SiteContainer extends React.Component { // eslint-disable-l
         <Navbar inverse>
           <Navbar.Header>
             <Navbar.Brand>
-            	<NavItem componentClass={Link} to="/" href="/"><img src={manic} alt="manicule" style={{ height: '1em' }} /> Manicule</NavItem></Navbar.Brand>
+              <NavItem componentClass={Link} to="/" href="/"><img src={manic} alt="manicule" style={{ height: '1em' }} /> Richardson&#146s Moral Sentiments</NavItem></Navbar.Brand>
           </Navbar.Header>
           <Nav>
             <NavItem componentClass={Link} to="/reader" href="/reader">
              Browse
             </NavItem>
+            <NavItem componentClass={Link} to="/sentiments" href="/sentiments">About the Book</NavItem>
+            <NavItem componentClass={Link} to="/toc" href="/toc">Index</NavItem>
             <NavItem componentClass={Link} to="/structure" href="/structure">Structure</NavItem>
-            <NavItem componentClass={Link} to="/about" href="/about">About</NavItem>
+            <NavItem componentClass={Link} to="/about" href="/about">About the Project</NavItem>
           </Nav>
 
         </Navbar>

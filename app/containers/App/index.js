@@ -6,6 +6,9 @@ import HomePage from '../HomePage/Loadable'
 import ReaderPage from '../ReaderPage/Loadable'
 import Structure from '../Structure/Loadable'
 import AboutPage from '../AboutPage/Loadable'
+import MoralSentiments from '../MoralSentiments/Loadable'
+import ToC from '../ToC/Loadable'
+
 
 import NotFoundPage from '../NotFoundPage/Loadable'
 
@@ -24,9 +27,11 @@ export default function App() {
         component={ReaderPage}
       />
       <Route exact path="/about" component={AboutPage} />
+      <Route exact path="/sentiments" component={MoralSentiments} />
+      <Route exact path="/toc" component={ToC} />
+
       <Route component={NotFoundPage} />
 
     </Switch>
   )
 }
-

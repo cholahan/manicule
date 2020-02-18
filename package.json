@@ -294,7 +294,7 @@
     "lint-staged": "3.5.1",
     "ngrok": "2.2.9",
     "node-plop": "0.13.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "null-loader": "0.1.1",
     "plop": "1.8.0",
     "pre-commit": "1.2.2",
