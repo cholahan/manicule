@@ -4,7 +4,10 @@ import { Grid, Row, Col } from 'react-bootstrap'
 
 import SiteContainer from '../SiteContainer'
 
-export default class MoralSentiments extends React.Component {
+
+import content from '../../sentiments.html'
+
+export default class AboutPage extends React.Component {
 
   render() {
     return (
@@ -12,7 +15,9 @@ export default class MoralSentiments extends React.Component {
         <Grid>
           <Row>
             <Col>
-              <div className="about"></div>
+              <div className="about">
+                <div dangerouslySetInnerHTML={{ __html: content }} />
+              </div>
             </Col>
           </Row>
         </Grid>
