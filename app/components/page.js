@@ -38,7 +38,7 @@ export class Page extends React.Component {
               { tour ? <Label
                 bsClass="metadata-label tour-label"
                 onClick={() => this.props.toggleTour(tour, tourSide)}
-                style={{ background: color }}
+                style={{ colors: color }}
               >
                 <Glyphicon glyph="bookmark" />
               </Label>
