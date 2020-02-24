@@ -40,19 +40,19 @@ export class HomePage extends React.Component {
                     <p><i>&apos;&apos;Why, Sir, if you were to read Richardson for the story, your impatience would be so much fretted that you would hang yourself. But you must read him for the sentiment, and consider the story as only giving occasion to the sentiment.&apos;&apos;</i></p>
                     <img src={im1} width="200" alt="Title page" style={{ float: 'right' }} /> <p>So declared Samuel Johnson of Samuel Richardson’s long epistolary novels, a problem that was solved, one might say, by Richardson’s publication of a collection of sentiments from his three novels – Clarissa, or, the History of a Young Lady; Pamela, or, Virtue Rewarded; and The History of Sir Charles Grandison – in this separate volume in 1755.</p>
 
-                    <p>The following is a digital edition of Richardson&apos;s <i>Collection of Moral Sentiments</i>, a volume comprised of maxims and morals extracted from Richardson&apos;s three novels,
+                    <p>The following is a digital edition of Richardson&apos;s <i>Collection of Moral Sentiments</i>, a volume comprised of maxims and morals extracted from Richardson&apos;s three novels,&nbsp;
                     <span
                       style={{
                         backgroundColor: '#2550a1',
                       }}
-                    >PamelaPAMELA
-                    </span>,
+                    >Pamela
+                    </span>,&nbsp;
                     <span
                       style={{
                         backgroundColor: '#658539',
                       }}
                     >Clarissa
-                    </span> , and
+                    </span>, and&nbsp;
                     <span
                       style={{
                         backgroundColor: '#963f39',

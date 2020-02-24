@@ -25,20 +25,20 @@ export class Page extends React.Component {
         <div className="page-metadata">
           <Row>
             {
-            pos === 'recto' && 
-            	<Col sm={8}>
-            		{pageImage}
-            		<Label bsClass="metadata-label category-label" style={{ background: color }}>
-           		 		{category}
-            	    </Label>
-            	</Col>
+            pos === 'recto' &&
+              <Col sm={8}>
+                {pageImage}
+                <Label bsClass="metadata-label category-label" style={{ background: color }}>
+                  {category}
+                </Label>
+              </Col>
             }
             <Col sm={4}>
 
               { tour ? <Label
                 bsClass="metadata-label tour-label"
                 onClick={() => this.props.toggleTour(tour, tourSide)}
-                style={{ color: color }}
+                style={{ background: color }}
               >
                 <Glyphicon glyph="bookmark" />
               </Label>
@@ -52,13 +52,13 @@ export class Page extends React.Component {
               </Label>
             </Col>
             {
-            pos === 'verso' && 
-            	<Col sm={8}>
-            		{pageImage}
-            		<Label bsClass="metadata-label category-label" style={{ background: color }}>
-           		 		{category}
-            	    </Label>
-            	</Col>
+            pos === 'verso' &&
+              <Col sm={8}>
+                  {pageImage}
+                <Label bsClass="metadata-label category-label" style={{ background: color }}>
+                  {category}
+                </Label>
+              </Col>
             }
           </Row>
         </div>
@@ -83,4 +83,3 @@ const mapStateToProps = (state) => ({ edition: state.edition.name })
 export default connect(
   mapStateToProps,
 )(Page)
-
