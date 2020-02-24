@@ -45,14 +45,14 @@ export class HomePage extends React.Component {
                       style={{
                         backgroundColor: '#2550a1',
                       }}
-                    >Pamela
+                    >PamelaPAMELA
                     </span>,
                     <span
                       style={{
                         backgroundColor: '#658539',
                       }}
                     >Clarissa
-                    </span>, and
+                    </span> , and
                     <span
                       style={{
                         backgroundColor: '#963f39',
