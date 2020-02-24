@@ -15,7 +15,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
             <Col>
               <Row>
                 <Col sm={6}>
-                  <div className="home-text">
+                  <div className="index-text">
                     <h1>Index by Novel</h1>
                     <h2>Pamela</h2>
                     <a href="/reader/penn/13">Address to the Rich</a>&nbsp;<br />
@@ -427,7 +427,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                   </div>
                 </Col>
                 <Col sm={6}>
-                  <div className="home-text">
+                  <div className="index-text">
                     <h1>Index by Subject</h1>
                     <a href="/reader/penn/229">Absence</a>&nbsp;<br />
                     <a href="/reader/penn/229">Address to Men of Sense in the gay World</a>&nbsp;<br />
