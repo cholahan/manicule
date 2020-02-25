@@ -40,7 +40,7 @@ export class HomePage extends React.Component {
                     <p><i>&apos;&apos;Why, Sir, if you were to read Richardson for the story, your impatience would be so much fretted that you would hang yourself. But you must read him for the sentiment, and consider the story as only giving occasion to the sentiment.&apos;&apos;</i></p>
                     <img src={im1} width="200" alt="Title page" style={{ float: 'right' }} /> <p>So declared Samuel Johnson of Samuel Richardson’s long epistolary novels, a problem that was solved, one might say, by Richardson’s publication of a collection of sentiments from his three novels – Clarissa, or, the History of a Young Lady; Pamela, or, Virtue Rewarded; and The History of Sir Charles Grandison – in this separate volume in 1755.</p>
 
-                    <p>The following is a digital edition of Richardson&apos;s <i>Collection of Moral Sentiments</i>, a volume comprised of maxims and morals extracted from Richardson&apos;s three novels,&nbsp;
+                    <p>The following is a digital edition of Richardson&apos;s <i>Collection of Moral Sentiments</i>, a volume comprised of maxims and morals extracted from Richardson&apos;s three novels:&nbsp;
                     <span
                       style={{
                         backgroundColor: '#2550a1',
@@ -62,7 +62,7 @@ export class HomePage extends React.Component {
                     </p>
                     <p>
                       <img src={im2} width="200" alt="drawing of the Man of Law" style={{ float: 'left' }} />
-                    This digital edition is reproduced from a copy held at the Kislak Center for Special Collections at the University of Pennsylvania, within Rare Book Collection, cataloged as PR3662 .H5. Full catalog entry <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_99750333503681#franklin-availability">here.</a>
+                    This digital edition is reproduced from a copy held at the Kislak Center for Special Collections at the University of Pennsylvania, within Rare Book Collection, cataloged as PR3662 .H5. Full catalog entry <a href="https://franklin.library.upenn.edu/catalog/FRANKLIN_99750333503681#franklin-availability"target="_blank">here.</a>
                     </p>
 
                     <p className="clear"></p>

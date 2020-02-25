@@ -17,6 +17,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                 <Col sm={6}>
                   <div className="index-text">
                     <h1>Index by Novel</h1>
+                    This index is divided by novel, replicating Richardson&apos;s index, which can be found <a href="/reader/penn/408">here</a>.
                     <h2>Pamela</h2>
                     <a href="/reader/penn/13">Address to the Rich</a>&nbsp;<br />
                     <a href="/reader/penn/14">Advantages of Men over Women, owing to Women Themselves</a>&nbsp;<br />
@@ -25,6 +26,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/15">Advice to Young Women</a>&nbsp;<br />
                     <a href="/reader/penn/18">Anger</a>&nbsp;<br />
                     <a href="/reader/penn/18">Bashfulness, Sheepishness</a>&nbsp;<br />
+                    <a href="/reader/penn/19">Beauty</a>&nbsp;<br />
                     <a href="/reader/penn/19">Beneficence</a>&nbsp;<br />
                     <a href="/reader/penn/20">Calumny, Censure, Censoriousness</a>&nbsp;<br />
                     <a href="/reader/penn/20">Cautions to young Female Servants</a>&nbsp;<br />
@@ -438,8 +440,8 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/233">Adversity, Calamity, Misfortune, Disappointment</a>&nbsp;(Grandison)<br />
                     <a href="/reader/penn/99">Advice and Cautions to Women</a>&nbsp;(Clarissa)<br />
                     <a href="/reader/penn/236">Advice and Cautions to Women</a>&nbsp;(Grandison)<br />
-                    <a href="/reader/penn/15">Advice to young married Women</a>&nbsp;(Pamela)<br />
-                    <a href="/reader/penn/15">Advice to Young Women</a>&nbsp;(Pamela)<br />
+                    <a href="/reader/penn/15">Advice to young married Women</a><br />
+                    <a href="/reader/penn/15">Advice to Young Women</a><br />
                     <a href="/reader/penn/240">Affectation</a>&nbsp;<br />
                     <a href="/reader/penn/105">Air and Manner, Address</a>&nbsp;<br />
                     <a href="/reader/penn/18">Anger</a>&nbsp;(Pamela)<br />
@@ -449,6 +451,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/242">Artful Men</a>&nbsp;<br />
                     <a href="/reader/penn/243">Avarice, Selfishness</a>&nbsp;<br />
                     <a href="/reader/penn/18">Bashfulness, Sheepishness</a>&nbsp;<br />
+                    <a href="/reader/penn/19">Beauty</a>&nbsp;(Pamela)<br />
                     <a href="/reader/penn/244">Beauty, Beautiful</a>&nbsp;(Grandison)<br />
                     <a href="/reader/penn/107">Beauty, Figure</a>&nbsp;(Clarissa)<br />
                     <a href="/reader/penn/19">Beneficence</a>&nbsp;(Pamela)<br />
