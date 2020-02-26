@@ -8,7 +8,10 @@ import Structure from '../Structure/Loadable'
 import AboutPage from '../AboutPage/Loadable'
 import MoralSentiments from '../MoralSentiments/Loadable'
 import ToC from '../ToC/Loadable'
-
+import Clarissa from '../Clarissa/Loadable'
+import Pamela from '../Pamela/Loadable'
+import Grandison from '../grandison/Loadable'
+import Tours from '../Tours/Loadable'
 
 import NotFoundPage from '../NotFoundPage/Loadable'
 
@@ -29,6 +32,10 @@ export default function App() {
       <Route exact path="/about" component={AboutPage} />
       <Route exact path="/sentiments" component={MoralSentiments} />
       <Route exact path="/toc" component={ToC} />
+      <Route exact path="/clarissa" component={Clarissa} />
+      <Route exact path="/pamela" component={Pamela} />
+      <Route exact path="/grandison" component={Grandison} />
+      <Route exact path="/tours" component={Tours} />
 
       <Route component={NotFoundPage} />
 

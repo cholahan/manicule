@@ -836,7 +836,6 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                   </div>
                 </Col>
               </Row>
-
             </Col>
           </Row>
         </Grid>
