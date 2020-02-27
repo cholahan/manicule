@@ -7,10 +7,11 @@ const testTour = require('../tour/test/tour.json')
 
 const categoryColors = {
   flyleaf: '#000000',
-  'Clarissa': '#2550a1',
-  'Grandison': '#658539',
-  'Pamela': '#963f39',
-  'Paratext': '#876331',
+  Clarissa: '#2f58a3',
+  Grandison: '#658539',
+  Pamela: '#963f39',
+  Paratext: '#876331',
+  Index: '#554085',
  // 'Tale of Sir Thopas': '#b09e8d',
  // 'Parson’s Tale': '#cae1ed',
  // 'Squire’s Tale': '#365414'
@@ -72,4 +73,3 @@ export const metadata = {
     tour: testTour,
   },
 }
-
