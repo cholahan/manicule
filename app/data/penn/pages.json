@@ -11,7 +11,7 @@
     "signatures": "",
     "pagenum": "Board",
     "category": "",
-    "description": "<a href=\"/reader/penn/13\">Address to the Rich</a>"
+    "description": ""
   },
   {
     "index": 3,
@@ -96,14 +96,14 @@
     "signatures": "6r",
     "pagenum": 1,
     "category": "Pamela",
-    "description": "A: Address to the Rich",
+    "description": "Suggested further reading:",
     "links": [{
-      "linkDescription":"A: The same H is used on page 16", 
-      "pageNumber": 16
+      "linkDescription":"Beneficence",
+      "pageNumber": 20
     },
     {
-      "linkDescription":"B: Skip here to get to the real juicy deets", 
-      "pageNumber": 17
+      "linkDescription":"The Rich",
+      "pageNumber": 80
     }
   ]
   },
@@ -112,14 +112,40 @@
     "signatures": "6v",
     "pagenum": 2,
     "category": "Pamela",
-    "description": "A: Advantages of Men over Women, owing to Women Themselves; Adversity"
+    "description": "Suggested further reading",
+    "links": [{
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 15
+    },
+    {
+      "linkDescription":"Female Dignity",
+      "pageNumber": 42
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    }
+    ]
   },
   {
     "index": 16,
     "signatures": "7r",
     "pagenum": 3,
     "category": "Pamela",
-    "description": "A: Adversity <p>Advice to young married Women; Advice to Young Women"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Beneficence",
+      "pageNumber": 15
+    },
+    {
+      "linkDescription":"Resignation",
+      "pageNumber": 43
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 17,
