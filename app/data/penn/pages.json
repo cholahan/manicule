@@ -96,7 +96,16 @@
     "signatures": "6r",
     "pagenum": 1,
     "category": "Pamela",
-    "description": "A: Address to the Rich"
+    "description": "A: Address to the Rich",
+    "links": [{
+      "linkDescription":"A: The same H is used on page 16", 
+      "pageNumber": 16
+    },
+    {
+      "linkDescription":"B: Skip here to get to the real juicy deets", 
+      "pageNumber": 17
+    }
+  ]
   },
   {
     "index": 15,
