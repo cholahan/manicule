@@ -99,7 +99,7 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Beneficence",
-      "pageNumber": 20
+      "pageNumber": 19
     },
     {
       "linkDescription":"The Rich",
@@ -112,7 +112,7 @@
     "signatures": "6v",
     "pagenum": 2,
     "category": "Pamela",
-    "description": "Suggested further reading",
+    "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Advice to Young Women",
       "pageNumber": 15
@@ -135,11 +135,11 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Beneficence",
-      "pageNumber": 15
+      "pageNumber": 19
     },
     {
       "linkDescription":"Resignation",
-      "pageNumber": 43
+      "pageNumber": 80
     },
     {
       "linkDescription":"Love",
@@ -152,406 +152,1582 @@
     "signatures": "7v",
     "pagenum": 4,
     "category": "Pamela",
-    "description": "A: Advice to Young Women"
+    "description": ""
   },
   {
     "index": 18,
     "signatures": "8r",
     "pagenum": 5,
     "category": "Pamela",
-    "description": "A: Advice to Young Women"
+    "description": ""
   },
   {
     "index": 19,
     "signatures": "8v",
     "pagenum": 6,
     "category": "Pamela",
-    "description": "A/B: Advice to Young Women; Anger; B: Bashfulness, Sheepishness"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advantages of Men over Women",
+      "pageNumber": 14
+    },
+    {
+      "linkDescription":"Cautions to young female Servants",
+      "pageNumber": 20
+    },
+    {
+      "linkDescription":"Credulity",
+      "pageNumber": 31
+    },
+    {
+      "linkDescription":"Female Dignity",
+      "pageNumber": 42
+    },
+    {
+      "linkDescription":"Flattery",
+      "pageNumber": 43
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 50
+    },
+    {
+      "linkDescription":"Histories and Characters",
+      "pageNumber": 52
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 56
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 57
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 61
+    },
+    {
+      "linkDescription":"Master's Behaviour to female Servants",
+      "pageNumber": 63
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 67
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 73
+    },
+    {
+      "linkDescription":"Romances",
+      "pageNumber": 82
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 87
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 90
+    },
+    {
+      "linkDescription":"Passion",
+      "pageNumber": 68
+    }
+  ]
   },
   {
     "index": 20,
     "signatures": "9r",
     "pagenum": 7,
     "category": "Pamela",
-    "description": "B: Bashfulness, Sheepishness; <br><br>Beauty; <br><br>Beneficence"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Merit",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Modesty",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Address to the Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Charity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Rich",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 21,
     "signatures": "9v",
     "pagenum": 8,
     "category": "Pamela",
-    "description": "C: Calumny, Censure, Censoriousness; Cautions to young Female Servants"
+    "description": ""
   },
   {
     "index": 22,
     "signatures": "10r",
     "pagenum": 9,
     "category": "Pamela",
-    "description": "C: Cautions to young Female Servants; Charity, Alms-giving"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to young Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Credulity",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Masters Behaviour to Female Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 23,
     "signatures": "10v",
     "pagenum": 10,
     "category": "Pamela",
-    "description": "C: Charity, Alms-giving; Chearfulness; Children in their early Infancy"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Address to the Rich",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Adversity",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Beneficence",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Poor not to be despised by the Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Sickness",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 24,
     "signatures": "11r",
     "pagenum": 11,
     "category": "Pamela",
-    "description": "C: Children in their early Infancy; Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds"
+    "description": ""
   },
   {
     "index": 25,
     "signatures": "11v",
     "pagenum": 12,
     "category": "Pamela",
-    "description": "C: Children how to be treated in their Infantile State, with a View to the Cultivation of their Minds; Children and Servants"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Education",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Maternal Duties",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 26,
     "signatures": "12r",
     "pagenum": 13,
     "category": "Pamela",
-    "description": "C: Clergy"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Education",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 27,
     "signatures": "12v",
     "pagenum": 14,
     "category": "Pamela",
-    "description": "C: Clergy"
+    "description": ""
   },
   {
     "index": 28,
     "signatures": "13r",
     "pagenum": 15,
     "category": "Pamela",
-    "description": "C: Clergy; Clergyman's Wife"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Patrons",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Religion",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Tythes",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 29,
     "signatures": "13v",
     "pagenum": 16,
     "category": "Pamela",
-    "description": "C: Clergyman's Wife; Competency; Conscience, Consciousness"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Resignation",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Shame",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 30,
     "signatures": "",
     "pagenum": 17,
     "category": "Pamela",
-    "description": "C: Conjugal Piety; Consolation; Consolation to the Poor"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Adversity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Resignation",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 31,
     "signatures": "",
     "pagenum": 18,
     "category": "Pamela",
-    "description": "C: Consolation to the Poor; Courtship"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Adversity",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Charity",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Prosperity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Resignation",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 32,
     "signatures": "",
     "pagenum": 19,
     "category": "Pamela",
-    "description": "C: Coursthip; Credulity; Custom"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Platonic Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Marriage",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 33,
     "signatures": "",
     "pagenum": 20,
     "category": "Pamela",
-    "description": "C/D: Custom; Death; Double Entendre"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Fashions",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Charity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Prosperity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Sickness",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Bashfulness",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Merit",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Modesty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Old Rakes",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 34,
     "signatures": "",
     "pagenum": 21,
     "category": "Pamela",
-    "description": "D/E: Dress; Duty to Superiors; Education"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to youn married Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Custom",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Fashion",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Children and Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Example",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 35,
     "signatures": "",
     "pagenum": 22,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 36,
     "signatures": "",
     "pagenum": 23,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 37,
     "signatures": "",
     "pagenum": 24,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 38,
     "signatures": "",
     "pagenum": 25,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 39,
     "signatures": "",
     "pagenum": 26,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 40,
     "signatures": "",
     "pagenum": 27,
     "category": "Pamela",
-    "description": "E: Education"
+    "description": ""
   },
   {
     "index": 41,
     "signatures": "",
     "pagenum": 28,
     "category": "Pamela",
-    "description": "E: Education; Female Education"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Children in their Infantile State",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Children and Servants",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Travelling",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Tutor",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 42,
     "signatures": "",
     "pagenum": 29,
     "category": "Pamela",
-    "description": "E: Female Education; Envy; Example"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Children and Servants",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Education",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Female Dignity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 43,
     "signatures": "",
     "pagenum": 30,
     "category": "Pamela",
-    "description": "E/F: Example; Fashion; Female Dignity"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Duty to Superiors",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Education",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Parents and Children",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Penitence",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Custom",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 44,
     "signatures": "",
     "pagenum": 31,
     "category": "Pamela",
-    "description": "F: Female Dignity; Filial Piety; Flattery; Forgiveness"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advantages of men over women, &c.",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wits",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Writers",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Advantages of men over women",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 45,
     "signatures": "",
     "pagenum": 32,
     "category": "Pamela",
-    "description": "F: Forgiveness; Fortitude; Friendship"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Religion, &c.",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Adversity",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Sickness",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 46,
     "signatures": "",
     "pagenum": 33,
     "category": "Pamela",
-    "description": "F/G: Friendship; General Instructions"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Love",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Platonic Love",
+      "pageNumber": 80
+    }
+  ]
   },
   {
     "index": 47,
     "signatures": "",
     "pagenum": 34,
     "category": "Pamela",
-    "description": "G: General Instructions; General Observations"
+    "description": ""
   },
   {
     "index": 48,
     "signatures": "",
     "pagenum": 35,
     "category": "Pamela",
-    "description": "G: General Observations"
+    "description": ""
   },
   {
     "index": 49,
     "signatures": "",
     "pagenum": 36,
     "category": "Pamela",
-    "description": "G: General Observations; Genius; Good Men; Good Wife"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Clergyman's Wife",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Conjugal Piety",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 50,
     "signatures": "",
     "pagenum": 37,
     "category": "Pamela",
-    "description": "G/H: Gratitude; Guardian; Happiness"
+    "description": ""
   },
   {
     "index": 51,
     "signatures": "",
     "pagenum": 38,
     "category": "Pamela",
-    "description": "H: Happiness; Heroic Poverty"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Competence",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Marriage",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 52,
     "signatures": "",
     "pagenum": 39,
     "category": "Pamela",
-    "description": "H: Heroic Poverty; High Life, a Picture of it, from Infancy to Maturity"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Address to the Rich",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Cautions to young Female Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Masters Behaviour to Female Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Poor not to be despised by the Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 53,
     "signatures": "",
     "pagenum": 40,
     "category": "Pamela",
-    "description": "H: High Life, a Picture of it, from Infancy to Maturity; Histories and Characters of particular Ladies"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Marriages",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Unequal Marriages",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 54,
     "signatures": "",
     "pagenum": 41,
     "category": "Pamela",
-    "description": "H: Histories and Characters of Particular Ladies; Honour; Human Life"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Death",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Religion, &c.",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 55,
     "signatures": "",
     "pagenum": 42,
     "category": "Pamela",
-    "description": "H: Human Nature; Humility; Husband and Wife"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Pride",
+      "pageNumber": 19
+    }
+  ]
   },
   {
     "index": 56,
     "signatures": "",
     "pagenum": 43,
     "category": "Pamela",
-    "description": "H/I: Husband and Wife; Impartiality, Partiality"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to young married Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"High Life",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Marriages",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Unequal Marriages",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Clergy",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 57,
     "signatures": "",
     "pagenum": 44,
     "category": "Pamela",
-    "description": "I/K/L: Industry; Keeping; Lawyer; Libertines, Rakes"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Relations",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Cautions to young female Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 61
+    },
+    {
+      "linkDescription":"Honour",
+      "pageNumber": 10
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 11
+    },
+    {
+      "linkDescription":"Masters Behaviour to Female Servants",
+      "pageNumber": 22
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 85
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 35
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 36
+    }
+  ]
   },
   {
     "index": 58,
     "signatures": "",
     "pagenum": 45,
     "category": "Pamela",
-    "description": "L: Libertines, Rakes; Love"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advantages of Men over Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Credulity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Female Dignity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Keeping",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Masters Behaviour to his Female Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love at first sight",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Reformation",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wit",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Writers",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 59,
     "signatures": "",
     "pagenum": 46,
     "category": "Pamela",
-    "description": "L: Love"
+    "description": ""
   },
   {
     "index": 60,
     "signatures": "",
     "pagenum": 47,
     "category": "Pamela",
-    "description": "L: Love; Love at first sight"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Platonic Love",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 61,
     "signatures": "",
     "pagenum": 48,
     "category": "Pamela",
-    "description": "L/P: Love at first sight; Platonic Love"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Female Dignity",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 80
+    }
+  ]
   },
   {
     "index": 62,
     "signatures": "",
     "pagenum": 49,
     "category": "Pamela",
-    "description": "L/M: Low Life; Magnanimity"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Resignation",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 63,
     "signatures": "",
     "pagenum": 50,
     "category": "Pamela",
-    "description": "M: Magnanimity; Marriage"
+    "description": ""
   },
   {
     "index": 64,
     "signatures": "",
     "pagenum": 51,
     "category": "Pamela",
-    "description": "M: Marriage; Unequal Marriages; Master's Behaviour to his Female Servant"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Courtship",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"High Life",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Unequal Marriages",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Mistress of a family",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Pride",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 65,
     "signatures": "",
     "pagenum": 52,
     "category": "Pamela",
-    "description": "M: Master's Behaviour to his Female Servant; Maternal Duty"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Advice to Young Women",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Cautions to young Female Servants",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Duty to Superiors",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Promises",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Children in early Infancy",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Children in their Infantile State, &c.",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Children and Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Education",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Female Education",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Mistress of a Family",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Pride",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 66,
     "signatures": "",
     "pagenum": 53,
     "category": "Pamela",
-    "description": "M: Merit; Mistress of a Family"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Bashfulness",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Modesty",
+      "pageNumber": 80
+    }
+  ]
   },
   {
     "index": 67,
     "signatures": "",
     "pagenum": 54,
     "category": "Pamela",
-    "description": "M/O: Mistress of a Family; Modesty; Moral Men; Obligation"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Children and Servants",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Clergyman's Wife",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Marriage",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Pride",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Bashfulness",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Merit",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Modesty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Rectitude of Mind",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Shame",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Good Man",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Religion",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Children in their Infancy",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 68,
     "signatures": "",
     "pagenum": 55,
     "category": "Pamela",
-    "description": "O/P: Obligation; Obstinacy; Old Maids; Old Rakes; Parents and Children"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Address to the Rich",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Beneficence",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Charity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Gratitude",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Low Life",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Double Entendre",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 69,
     "signatures": "",
     "pagenum": 56,
     "category": "Pamela",
-    "description": "P: Parents and Children; Passion, Passionate; Patrons"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Children in their early Infancy",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Children in their Infantile State, &c.",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Children and Servants",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Education",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Example",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Filial Piety",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Husband and Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Marriage",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Maternal Duty",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Mistress of a Family",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Wife",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Anger",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Pride",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 70,
     "signatures": "",
     "pagenum": 57,
     "category": "Pamela",
-    "description": "P: Patrons; Penitence"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Clergy",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Reformation",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Public Entertainments",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Clergy",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 71,
     "signatures": "",
     "pagenum": 58,
     "category": "Pamela",
-    "description": "P: Political Observations; Poor not to be despised by the Rich"
+    "description": ""
   },
   {
     "index": 72,
     "signatures": "",
     "pagenum": 59,
     "category": "Pamela",
-    "description": "P: Poor not to be despised by the Rich; Praise; Pride, Proud"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Consolation to the Poor",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"Pride",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Relations",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Rich",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 73,
     "signatures": "",
     "pagenum": 60,
     "category": "Pamela",
-    "description": "P: Pride, Proud"
+    "description": ""
   },
   {
     "index": 74,
     "signatures": "",
     "pagenum": 61,
     "category": "Pamela",
-    "description": "P: Pride, Proud; Promises, Vows; Prosperity"
+    "description": "Suggested further reading:",
+    "links": [{
+      "linkDescription":"Heroic Poverty",
+      "pageNumber": 19
+    },
+    {
+      "linkDescription":"Humility",
+      "pageNumber": 80
+    },
+    {
+      "linkDescription":"The Poor not to be despised by the Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Prosperity",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Rectitude of Mind",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Religion",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"The Rich",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"See Advice to Young Women",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Libertines",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Love",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Temptations",
+      "pageNumber": 58
+    },
+    {
+      "linkDescription":"Virtue",
+      "pageNumber": 58
+    }
+  ]
   },
   {
     "index": 75,
