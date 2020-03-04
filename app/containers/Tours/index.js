@@ -27,17 +27,17 @@ export default class Tours extends React.PureComponent { // eslint-disable-line 
                     <p>Jump to a specific tour topic. Once the book browser is open, click on the bookmark icon to start the tour.</p>
                     <ListGroup>
                       <ListGroupItem> <Link to="/reader/penn/5">
-                        <Glyphicon glyph="bookmark" />Introduction</Link>
+                        <Glyphicon glyph="bookmark" />1. Introduction</Link>
                       </ListGroupItem>
                     </ListGroup>
                     <ListGroup>
                       <ListGroupItem> <Link to="/reader/penn/97">
-                        <Glyphicon glyph="bookmark" />Organization: <i>Sentiments</i> as Reference Tool</Link>
+                        <Glyphicon glyph="bookmark" />2. Organization: <i>Sentiments</i> as Reference Tool</Link>
                       </ListGroupItem>
                     </ListGroup>
                     <ListGroup>
                       <ListGroupItem> <Link to="/reader/penn/5">
-                        <Glyphicon glyph="bookmark" /> Tour this edition</Link>
+                        <Glyphicon glyph="bookmark" />3. Excerpt, (Mis)quotation, Summary: Extracting from the novel </Link>
                       </ListGroupItem>
                     </ListGroup>
                   </div>

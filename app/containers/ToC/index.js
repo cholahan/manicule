@@ -67,7 +67,6 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/48">Good Wife</a>&nbsp;<br />
                     <a href="/reader/penn/49">Gratitude</a>&nbsp;<br />
                     <a href="/reader/penn/49">Guardian</a>&nbsp;<br />
-                    <a href="/reader/penn/49">Happiness</a>&nbsp;<br />
                     <a href="/reader/penn/50">Happiness</a>&nbsp;<br />
                     <a href="/reader/penn/50">Heroic Poverty</a>&nbsp;<br />
                     <a href="/reader/penn/51">High Life, a Picture of it, from Infancy to Maturity</a>&nbsp;<br />
