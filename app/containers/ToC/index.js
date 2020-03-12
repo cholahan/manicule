@@ -83,6 +83,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/56">Libertines, Rakes</a>&nbsp;<br />
                     <a href="/reader/penn/57">Love</a>&nbsp;<br />
                     <a href="/reader/penn/59">Love at first sight</a>&nbsp;<br />
+                    <a href="/reader/penn/60">Platonic Love</a>&nbsp;<br />
                     <a href="/reader/penn/61">Low Life</a>&nbsp;<br />
                     <a href="/reader/penn/61">Magnanimity</a>&nbsp;<br />
                     <a href="/reader/penn/62">Marriage</a>&nbsp;<br />
@@ -100,7 +101,6 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/68">Passion, Passionate</a>&nbsp;<br />
                     <a href="/reader/penn/68">Patrons</a>&nbsp;<br />
                     <a href="/reader/penn/69">Penitence</a>&nbsp;<br />
-                    <a href="/reader/penn/60">Platonic Love</a>&nbsp;<br />
                     <a href="/reader/penn/70">Political Observations</a>&nbsp;<br />
                     <a href="/reader/penn/70">Poor not to be despised by the Rich</a>&nbsp;<br />
                     <a href="/reader/penn/71">Praise</a>&nbsp;<br />
@@ -219,8 +219,6 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/173">Men and Women</a>&nbsp;<br />
                     <a href="/reader/penn/174">Merit, Demerit</a>&nbsp;<br />
                     <a href="/reader/penn/175">Minutiae</a>&nbsp;<br />
-                    <a href="/reader/penn/184">MISSSING</a>&nbsp;<br />
-                    <a href="/reader/penn/185">MISSSING</a>&nbsp;<br />
                     <a href="/reader/penn/175">Modesty, Audacity</a>&nbsp;<br />
                     <a href="/reader/penn/176">Obligation, Oblige, Obliging Temper</a>&nbsp;<br />
                     <a href="/reader/penn/177">Obstinacy, Perverseness, Forwardness, Pertness</a>&nbsp;<br />
@@ -666,8 +664,6 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/175">Minutiae</a>&nbsp;<br />
                     <a href="/reader/penn/351">Mirth, Joy, Laughter</a>&nbsp;<br />
                     <a href="/reader/penn/352">Miscellaneous Observations</a>&nbsp;(Grandison)<br />
-                    <a href="/reader/penn/184">MISSSING</a>&nbsp;<br />
-                    <a href="/reader/penn/185">MISSSING</a>&nbsp;<br />
                     <a href="/reader/penn/65">Mistress of a Family</a>&nbsp;(Pamela)<br />
                     <a href="/reader/penn/66">Mistress of a Family</a>&nbsp;(Pamela)<br />
                     <a href="/reader/penn/175">Modesty, Audacity</a>&nbsp;(Clarissa)<br />
@@ -691,6 +687,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                     <a href="/reader/penn/181">Parents, Children</a>&nbsp;(Clarissa)<br />
                     <a href="/reader/penn/369">Parliament Men</a>&nbsp;<br />
                     <a href="/reader/penn/369">Partiality</a>&nbsp;<br />
+                    <a href="/reader/penn/186">Partiality, Impartiality</a>&nbsp;<br />
                     <a href="/reader/penn/68">Passion, Passionate</a>&nbsp;(Pamela)<br />
                     <a href="/reader/penn/187">Passions</a>&nbsp;(Clarissa)<br />
                     <a href="/reader/penn/369">The Passions</a>&nbsp;(Grandison)<br />

@@ -36,8 +36,13 @@ export default class Tours extends React.PureComponent { // eslint-disable-line 
                       </ListGroupItem>
                     </ListGroup>
                     <ListGroup>
-                      <ListGroupItem> <Link to="/reader/penn/5">
-                        <Glyphicon glyph="bookmark" />3. Quotation, Misquotation, Summary: Extracting from the novels</Link>
+                      <ListGroupItem> <Link to="/reader/penn/230">
+                        <Glyphicon glyph="bookmark" />3. Quotation, Misquotation, Summary: Linking back to the Novel</Link>
+                      </ListGroupItem>
+                    </ListGroup>
+                    <ListGroup>
+                      <ListGroupItem> <Link to="/reader/penn/85">
+                        <Glyphicon glyph="bookmark" />4. The Form of the Maxim</Link>
                       </ListGroupItem>
                     </ListGroup>
                   </div>
