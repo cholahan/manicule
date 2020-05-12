@@ -45,6 +45,11 @@ export default class Tours extends React.PureComponent { // eslint-disable-line 
                         <Glyphicon glyph="bookmark" />4. The Form of the Maxim</Link>
                       </ListGroupItem>
                     </ListGroup>
+                    <ListGroup>
+                      <ListGroupItem> <Link to="/reader/penn/53">
+                        <Glyphicon glyph="bookmark" />5. Beyond the Maxim</Link>
+                      </ListGroupItem>
+                    </ListGroup>
                   </div>
                 </Col>
                 <Col sm={4}>
