@@ -71,7 +71,7 @@ export class HomePage extends React.Component {
                 </Col>
                 <Col sm={4}>
                   <ListGroup>
-                    <ListGroupItem> <Link to="/reader/penn/5">
+                    <ListGroupItem> <Link to="/reader/penn/3">
                       <Glyphicon glyph="bookmark" /> Tour this edition</Link>
                     </ListGroupItem>
                     <ListGroupItem >
