@@ -825,10 +825,6 @@
     {
       "linkDescription":"Advice to Young Women",
       "pageNumber": 15
-    },
-    {
-      "linkDescription":"Love",
-      "pageNumber": 57
     }
   ]
   },
@@ -4366,7 +4362,7 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Extravagance",
-      "pageNumber":
+      "pageNumber": 1
     },
     {
       "linkDescription":"Good Man",
@@ -5552,7 +5548,7 @@
     },
     {
       "linkDescription":"Wit",
-      "pageNumber": 402
+      "pageNumber": 40
     }
     ]
     },
@@ -5564,47 +5560,47 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Challenges",
-      "pageNumber": 248
+      "pageNumber": 1
     },
     {
       "linkDescription":"Duelling",
-      "pageNumber": 265
+      "pageNumber": 2
     },
     {
       "linkDescription":"Magnanimity",
-      "pageNumber": 336
+      "pageNumber": 3
     },
     {
       "linkDescription":"Good Man",
-      "pageNumber": 293
+      "pageNumber": 4
     },
     {
       "linkDescription":"Parents and Children",
-      "pageNumber": 365
+      "pageNumber": 5
     },
     {
       "linkDescription":"Youth",
-      "pageNumber": 404
+      "pageNumber": 6
     },
     {
       "linkDescription":"Compliments",
-      "pageNumber": 250
+      "pageNumber": 61
     },
     {
       "linkDescription":"Persuasion",
-      "pageNumber": 372
+      "pageNumber": 62
     },
     {
       "linkDescription":"Generosity",
-      "pageNumber": 289
+      "pageNumber": 63
     },
     {
       "linkDescription":"Magnanimity",
-      "pageNumber": 336
+      "pageNumber": 64
     },
     {
       "linkDescription":"Clandestine Marriages",
-      "pageNumber": 342
+      "pageNumber": 65
     }
     ]
     },
@@ -5616,39 +5612,39 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Advice to Women",
-      "pageNumber": 236
+      "pageNumber": 1
     },
     {
       "linkDescription":"Affectation",
-      "pageNumber": 240
+      "pageNumber": 2
     },
     {
       "linkDescription":"Concealment",
-      "pageNumber": 253
+      "pageNumber": 3
     },
     {
       "linkDescription":"Love",
-      "pageNumber": 324
+      "pageNumber": 4
     },
     {
       "linkDescription":"Lover",
-      "pageNumber": 333
+      "pageNumber": 5
     },
     {
       "linkDescription":"Ingenuousness",
-      "pageNumber": 311
+      "pageNumber": 6
     },
     {
       "linkDescription":"Men and Women",
-      "pageNumber": 349
+      "pageNumber": 6
     },
     {
       "linkDescription":"Modesty",
-      "pageNumber": 356
+      "pageNumber": 6
     },
     {
       "linkDescription":"Single Women",
-      "pageNumber": 392
+      "pageNumber": 6
     }
     ]
     },
@@ -5667,31 +5663,31 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Duties Moral and Religious",
-      "pageNumber": 267
+      "pageNumber": 1
     },
     {
       "linkDescription":"Good Man",
-      "pageNumber": 293
+      "pageNumber": 2
     },
     {
       "linkDescription":"Ingeniousness",
-      "pageNumber": 311
+      "pageNumber": 3
     },
     {
       "linkDescription":"Love",
-      "pageNumber": 324
+      "pageNumber": 4
     },
     {
       "linkDescription":"Magnanimity",
-      "pageNumber": 336
+      "pageNumber": 5
     },
     {
       "linkDescription":"Modesty",
-      "pageNumber": 356
+      "pageNumber": 6
     },
     {
       "linkDescription":"Prudence",
-      "pageNumber": 379
+      "pageNumber": 61
     }
     ]
     },
@@ -5724,7 +5720,7 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Miscellaneous Observations",
-      "pageNumber": 352
+      "pageNumber": 1
     }
     ]
     },
@@ -5743,23 +5739,23 @@
     "description": "Suggested further reading:",
     "links": [{
       "linkDescription":"Beneficence",
-      "pageNumber": 245
+      "pageNumber": 1
     },
     {
       "linkDescription":"Good Manners",
-      "pageNumber":
+      "pageNumber": 2
     },
     {
       "linkDescription":"Gratitude",
-      "pageNumber": 300
+      "pageNumber": 3
     },
     {
       "linkDescription":"Magnanimity",
-      "pageNumber": 336
+      "pageNumber": 4
     },
     {
       "linkDescription":"Modesty",
-      "pageNumber": 356
+      "pageNumber": 5
     }
     ]
     },
@@ -8317,11 +8313,11 @@
     },
     {
       "linkDescription":"Magnanimity",
-      "pageNumber": 32
+      "pageNumber": 66
     },
     {
       "linkDescription":"Parents and Children",
-      "pageNumber": 31
+      "pageNumber": 67
     },
     {
       "linkDescription":"The Passions",
