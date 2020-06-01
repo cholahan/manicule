@@ -17,7 +17,7 @@ export default class ToC extends React.PureComponent { // eslint-disable-line re
                 <Col sm={6}>
                   <div className="index-text">
                     <h1>Index by Novel</h1>
-                    This index is divided by novel, replicating Richardson&apos;s index, which can be found <a href="/reader/penn/408">here</a>.
+                    This index is divided by novel, replicating Richardson&apos;s index, which can be found <a href="/reader/penn/408" target="_blank">here</a>.
                     <h2>Pamela</h2>
                     <a href="/reader/penn/13">Address to the Rich</a>&nbsp;<br />
                     <a href="/reader/penn/14">Advantages of Men over Women, owing to Women Themselves</a>&nbsp;<br />
