@@ -39,7 +39,7 @@
   RewriteCond %{REQUEST_FILENAME} !\/$
 
   # Rewrite all requests to the root
-  RewriteRule ^(.*) /manicule/
+  RewriteRule ^(.*) /moralsentiments/
 
 </ifModule>
 
