@@ -24,7 +24,7 @@ export default class Tours extends React.PureComponent { // eslint-disable-line 
                 <Col sm={8}>
                   <div className="index-text">
                     <h1>Tours</h1>
-                    <p>Jump to a specific tour topic. Once the book browser is open, click on the bookmark icon to start the tour.</p>
+                    <p>Begin with the introduction or jump to a specific tour topic. Once the book browser is open, click on the bookmark icon to start the tour.</p>
                     <ListGroup>
                       <ListGroupItem> <Link to="/reader/penn/3">
                         <Glyphicon glyph="bookmark" />1. Introduction</Link>

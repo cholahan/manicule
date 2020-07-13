@@ -11,7 +11,7 @@ export class Page extends React.Component {
 
   render() {
     let annotations
-    const { edition, num, category, signatures, color, pos, description, links, description2, links2 } = this.props
+    const { edition, num, category, signatures, color, pos, description, links } = this.props
     const tour = getTourForPage(edition, num)
     // The tour, if it exists, should open on the opposite side of the current page
     const tourSide = pos === 'verso' ? 'recto' : 'verso'
@@ -27,16 +27,6 @@ export class Page extends React.Component {
       links.map((link) => (
         <div key={link.pageNumber}>
           <Link to={`/reader/${this.props.edition}/${link.pageNumber}`} className="book-nav left"> {link.linkDescription}
-          </Link>
-        </div>
-        ))
-    }
-
-    if (links2 !== undefined) {
-      annotations =
-      links2.map((link) => (
-        <div key={link.pageNumber}>
-          <Link to={`/reader/${this.props.edition}/${link.pageNumber}`} className="book-nav left"> {link.linkDescription2}
           </Link>
         </div>
         ))
@@ -73,9 +63,6 @@ export class Page extends React.Component {
               <Label bsClass="metadata-label signatures-label">
                 {signatures}
               </Label>
-              <Label bsClass="metadata-label linkDescription2-label">
-                {description2}
-              </Label>
             </Col>
             {
             pos === 'verso' &&
@@ -100,12 +87,10 @@ Page.propTypes = {
   color: PropTypes.string.isRequired,
   signatures: PropTypes.string.isRequired,
   description: PropTypes.string,
-  description2: PropTypes.string,
   pos: PropTypes.string,
   toggleZoom: PropTypes.func,
   toggleTour: PropTypes.func,
   links: PropTypes.array,
-  links2: PropTypes.array,
 }
 const mapStateToProps = (state) => ({ edition: state.edition.name })
 
