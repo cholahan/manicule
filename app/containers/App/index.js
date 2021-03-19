@@ -7,6 +7,7 @@ import ReaderPage from '../ReaderPage/Loadable'
 import AboutPage from '../AboutPage/Loadable'
 import MoralSentiments from '../MoralSentiments/Loadable'
 import ToC from '../ToC/Loadable'
+import Networks from '../Networks/Loadable'
 import Clarissa from '../Clarissa/Loadable'
 import Pamela from '../Pamela/Loadable'
 import Grandison from '../grandison/Loadable'
@@ -36,7 +37,7 @@ export default function App() {
       <Route exact path="/grandison" component={Grandison} />
       <Route exact path="/tours" component={Tours} />
       <Route exact path="/network" component={Network} />
-
+      <Route exact path="/networks" component={Networks} />
 
       <Route component={NotFoundPage} />
 

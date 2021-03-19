@@ -58,7 +58,6 @@ export default class Tours extends React.PureComponent { // eslint-disable-line 
                       <Glyphicon glyph="book" /> Full tour</Link>
                     </ListGroupItem>
                   </ListGroup>
-
                 </Col>
               </Row>
             </Col>
