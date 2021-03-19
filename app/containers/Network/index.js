@@ -5,7 +5,7 @@ import { Grid, Row, Col } from 'react-bootstrap'
 import SiteContainer from '../SiteContainer'
 
 
-import content from '../../about.html'
+import content from '../../network.html'
 
 export default class AboutPage extends React.Component {
 

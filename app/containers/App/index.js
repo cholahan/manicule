@@ -11,6 +11,7 @@ import Clarissa from '../Clarissa/Loadable'
 import Pamela from '../Pamela/Loadable'
 import Grandison from '../grandison/Loadable'
 import Tours from '../Tours/Loadable'
+import Network from '../Network/Loadable'
 
 import NotFoundPage from '../NotFoundPage/Loadable'
 
@@ -34,6 +35,8 @@ export default function App() {
       <Route exact path="/pamela" component={Pamela} />
       <Route exact path="/grandison" component={Grandison} />
       <Route exact path="/tours" component={Tours} />
+      <Route exact path="/network" component={Network} />
+
 
       <Route component={NotFoundPage} />
 
